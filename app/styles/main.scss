@@ -2,6 +2,8 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 
 @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
 
+@import "compass";
+
 // bower:scss
 @import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 // endbower
@@ -19,12 +21,21 @@ body {
     padding-bottom: 20px;
 }
 
+.content {
+    height: 700px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
 .footer {
+    position: fixed;
+    width: 700px;
     padding-left: 15px;
     padding-right: 15px;
+    z-index: 2;
 }
 
 /* Custom page header */
@@ -40,11 +51,52 @@ body {
     padding-bottom: 19px;
 }
 
+.headerBack {
+  top: 0px;
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  height: 84px;
+  background: white;
+}
+
 /* Custom page footer */
 .footer {
+    bottom: 0px;
     padding-top: 19px;
     color: #777;
     border-top: 1px solid #e5e5e5;
+}
+
+.scrolledContent {
+    padding-bottom: 100px;
+}
+
+.fadein {
+  position: fixed;
+  top: 84px;
+  width: 100%;
+  height: 20px;
+  z-index: 0;
+  @include background-image(linear-gradient(to bottom, #ffffff 0%, transparent 100%));
+}
+
+.fadeout {
+  position: fixed;
+  bottom: 80px;
+  width: 100%;
+  height: 20px;
+  z-index: 0;
+  @include background-image(linear-gradient(to top, #ffffff 0%, transparent 100%));
+}
+
+.footerBack {
+  bottom: 0px;
+  z-index: 1;
+  position: fixed;
+  width: 100%;
+  height: 80px;
+  background: white;
 }
 
 .container-narrow > hr {
