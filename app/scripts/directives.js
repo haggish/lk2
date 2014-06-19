@@ -19,6 +19,8 @@ angular.module('lkApp')
             })
                 .on('click', '.carousel-control', handle_nav);
 
+            element.carousel(0);
+
             var handle_nav = function (e) {
                 e.preventDefault();
                 var nav = $(this);
