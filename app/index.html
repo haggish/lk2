@@ -34,11 +34,11 @@
             <li ng-repeat="tab in tabs" ng-class="{active:selectedTab==tab}"><a
                     translate
                     ng-click="select(tab)"
-                    ng-href="#/{{tab.toLowerCase()}}/{{locale()}}">{{tab}}</a>
+                    ng-href="#/{{tab.toLowerCase()}}/{{locale()}}">CONTAINER.TABS.{{tab}}</a>
             </li>
         </ul>
         <h2 class="text-muted">laura kärki
-            <small translate>PROFESSION</small>
+            <small translate>CONTAINER.PROFESSION</small>
         </h2>
     </div>
     <div class="headerBack"></div>
@@ -52,22 +52,22 @@
     <div class="footer">
         <p class="pull-left">
             <button class="btn-link" translate ng-click="changeLanguage()">
-                LANGUAGE
+                CONTAINER.LANGUAGE
             </button>
         </p>
 
         <p class="pull-right"><a translate
-                                 href="http://laurakarki.blogspot.com">BLOG</a>
+                                 href="http://laurakarki.blogspot.com">CONTAINER.FOOTER.BLOG</a>
             - <a href="https://twitter.com/Laura_Karki">twitter</a> - <a
                     href="https://www.facebook.com/pages/Laura-K%C3%A4rki/651199511588351">facebook</a>
             - <a href="http://www.saatchiart.com/laurakarki">saatchi art</a> -
             <a
                     translate
-                    href="http://www.kuvataiteilijamatrikkeli.fi/fi/taiteilijat/3084">AAF</a>
+                    href="http://www.kuvataiteilijamatrikkeli.fi/fi/taiteilijat/3084">CONTAINER.FOOTER.AAF</a>
             - <a href="http://www.finnishdesigners.fi/portfolio/laura.karki">finnishdesigners</a>
         </p>
 
-        <p class="pull-right" translate>EMAIL</p>
+        <p class="pull-right" translate>CONTAINER.FOOTER.EMAIL</p>
         </p>
     </div>
 </div>
@@ -120,10 +120,12 @@
 <!-- endbuild -->
 
 <!-- build:js({.tmp,app}) scripts/scripts.js -->
+<script src="scripts/translations.js"></script>
 <script src="scripts/app.js"></script>
 <script src="scripts/directives.js"></script>
 <script src="scripts/controllers/container.js"></script>
 <script src="scripts/controllers/news.js"></script>
+<script src="scripts/controllers/works.js"></script>
 <!-- endbuild -->
 </body>
 </html>
