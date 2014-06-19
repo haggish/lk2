@@ -2,7 +2,7 @@
 
 angular.module('lkApp')
     .controller('Container',
-    function ($scope, $translate, $cookieStore, $location) {
+    function ($scope, $translate, $cookieStore, $location, $rootScope) {
 
         var preferredLanguage = language();
         if (!preferredLanguage) {
@@ -11,7 +11,11 @@ angular.module('lkApp')
         }
 
         $scope.tabs = [ 'NEW', 'INTRO', 'CV', 'WORKS', 'OTHER' ];
-        $scope.selectedTab = $scope.tabs[0];
+        $scope.selectedTab = tabFromLocation();
+
+        $rootScope.$on('$locationChangeStart', function (event, newUrl) {
+            $scope.selectedTab = tabFromLocation();
+        });
 
         $scope.select = function (tab) {
             $scope.selectedTab = tab;
@@ -31,7 +35,13 @@ angular.module('lkApp')
         };
 
 
-        function language (value) {
+        function tabFromLocation() {
+            return $scope.tabs.filter(function (tab) {
+                return $location.path().indexOf(tab.toLowerCase()) != -1;
+            })[0];
+        }
+
+        function language(value) {
             // todo angular-translate has something ready-made for this
             var cookieName = 'com.laurakarki.preferredLanguage';
             if (!value) {
@@ -42,12 +52,12 @@ angular.module('lkApp')
             }
         }
 
-        function localeSpecific (path) {
+        function localeSpecific(path) {
             // todo generalization magic when actually needed
             return path.indexOf('/intro/') === 0;
         }
 
-        function relocalized (path, newLocale) {
+        function relocalized(path, newLocale) {
             // todo regexp magic when actually needed
             return '/intro/' + newLocale;
         }
