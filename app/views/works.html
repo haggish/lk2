@@ -1,14 +1,8 @@
 <div lk-carousel id="workCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item" ng-class="{active:$index==0}" ng-repeat="work in works">
+        <div class="item" ng-class="{active:$index==activeSlide}" ng-repeat="work in works">
             <img ng-src="../images/{{$index + 1}}.jpg" alt="{{work.name}}">
             <div class="carousel-caption">
                 <h3>{{work.name}}</h3>

@@ -11,7 +11,13 @@ angular.module('lkApp')
             replace: true
         }
     })
-    .directive('lkCarousel', function () {
+    .directive('lkCarousel', function ($rootScope) {
+        var handle_nav = function (e) {
+            e.preventDefault();
+            var nav = $(this);
+            nav.parents('.carousel').carousel(nav.data('slide'));
+        };
+
         var linker = function (scope, element) {
             element.carousel({
                 interval: false,
@@ -19,13 +25,6 @@ angular.module('lkApp')
             })
                 .on('click', '.carousel-control', handle_nav);
 
-            element.carousel(0);
-
-            var handle_nav = function (e) {
-                e.preventDefault();
-                var nav = $(this);
-                nav.parents('.carousel').carousel(nav.data('slide'));
-            }
         };
         return {
             restrict: 'A',
