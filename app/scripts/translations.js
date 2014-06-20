@@ -19,13 +19,13 @@ var com_laurakarki_translations = {
         },
 
         'NEW': {
-            'UPCOMING.1': 'Suomi-asema',
+            'UPCOMING.1': '<a target="_blank" href="http://www.suomi-asema.fi&target=_blank">Suomi-asema</a>',
             'UPCOMING.1.DESC': 'Frankfurt, Saksa 28.-31.8.2014 - kutsuttuna ' +
                 'taiteilijana mukana Westhafenpier-näyttelytilassa Main-joen ' +
                 'rannalla',
-            'UPCOMING.2': 'Galleria Katariina',
+            'UPCOMING.2': '<a target="_blank" href="http://helsingintaiteilijaseura.fi/galleria-katariina/">Galleria Katariina</a>',
             'UPCOMING.2.DESC': 'Yksityisnäyttely 19.11.-7.12.2014, Helsinki',
-            'UPCOMING.3': 'Kuusiston kesä',
+            'UPCOMING.3': '<a target="_blank" href="http://kuusistontaidekartano.com/avoin-teoshaku-kesalle-2014/">Kuusiston kesä</a>',
             'UPCOMING.3.DESC': 'Yhteisnäyttely 17.5.-15.9.2014, My Water, ' +
                 'Kaarina'
         },
@@ -404,13 +404,13 @@ var com_laurakarki_translations = {
         },
 
         'NEW': {
-            'UPCOMING.1': 'Finland-Station',
+            'UPCOMING.1': '<a target="_blank" href="http://www.suomi-asema.fi">Finland-Station</a>',
             'UPCOMING.1.DESC': 'Frankfurt, Germany between 28.-31.8.2014 ' +
                 'invited in the Westhafenpier exhibition space by river Main',
-            'UPCOMING.2': 'Katariina Gallery',
+            'UPCOMING.2': '<a target="_blank" href="http://helsingintaiteilijaseura.fi/galleria-katariina/">Katariina Gallery</a>',
             'UPCOMING.2.DESC': 'Solo exhibition between 19.11.-7.12.2014, ' +
                 'Helsinki',
-            'UPCOMING.3': 'Kuusisto Summer',
+            'UPCOMING.3': '<a target="_blank" href="http://kuusistontaidekartano.com/avoin-teoshaku-kesalle-2014/">Kuusisto Summer</a>',
             'UPCOMING.3.DESC': 'Group exhibition between 17.5.-15.9.2014, ' +
                 'My Water, Kaarina'
         },
