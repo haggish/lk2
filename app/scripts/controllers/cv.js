@@ -22,7 +22,57 @@ angular.module('lkApp')
             ]
         };
 
-        $scope.timeFor = function (line) {
-            return "1998";
+        $scope.timeFor = function (line) { // todo clean this shit up
+            var start = line.start ? new Date(line.start) : undefined;
+            var end = line.end ? new Date(line.end) : undefined;
+            var continuing = line.continuing ? true : false;
+            var ret;
+            var yearString = function () {
+                var ret = start ? start.getUTCFullYear().toString() : '';
+                if (end) {
+                    if (start == undefined) {
+                        ret += ('-' + end.getUTCFullYear());
+                    } else if (end.getUTCFullYear() !=
+                        start.getUTCFullYear()) {
+                        ret += ('-' + end.getUTCFullYear());
+                    }
+                } else if (continuing) {
+                    ret += '-';
+                }
+                return ret;
+            };
+            switch (line.granularity) {
+                case 'year' :
+                    ret = yearString();
+                    break;
+                case 'month' :
+                    ret = start ? (start.getUTCMonth() + 1).toString() : '';
+                    if (!end) {
+                        ret += ('/' + start.getUTCFullYear());
+                        if (continuing) {
+                            ret += '-';
+                        }
+                    } else if (end &&
+                        end.getUTCFullYear() == start.getUTCFullYear() &&
+                        end.getUTCMonth() != start.getUTCMonth()) {
+                        ret += ('-' + (end.getUTCMonth() + 1) +
+                            '/' + start.getUTCFullYear());
+                    } else {
+                        ret += ('/' + start.getUTCFullYear() + '-' +
+                            (end.getUTCMonth() + 1) + '/' +
+                            end.getUTCFullYear());
+                    }
+                    break;
+                case 'day':
+                    ret = start.getUTCDate() + '.' +
+                        (start.getUTCMonth() + 1) +
+                        '.' + start.getUTCFullYear();
+                    // assume for now there is no end
+                    break;
+                default:
+                    ret = yearString();
+                    break;
+            }
+            return ret;
         };
     });
