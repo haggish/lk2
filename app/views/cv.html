@@ -1,14 +1,19 @@
 <ul class="list-unstyled scrolledContent container">
     <div id="section" ng-repeat="section in sections">
         <h3 translate>CV.{{section}}</h3>
-
+        <div id="sectionLine">
+            <li class="row" ng-repeat="line in translations.CV[section].VALUES">
+                <div class="col-md-4">{{timeFor(line)}}</div><div translate class="col-md-8">CV.{{section}}.VALUES.{{$index}}.DESC</div>
+            </li>
+        </div>
         <div id="subsection"
              ng-repeat="subsection in subsections[section]">
             <h4 translate>CV.{{section}}.{{subsection}}</h4>
+            <div id="subsectionLine">
+                <li class="row" ng-repeat="line in translations.CV[section][subsection].VALUES">
+                    <div class="col-md-4">{{timeFor(line)}}</div><div translate class="col-md-8">CV.{{section}}.{{subsection}}.VALUES.{{$index}}.DESC</div>
+                </li>
+            </div>
         </div>
-        <!--
-        <li class="row">
-            <div class="col-md-4">time</div><div class="col-md-8">desc</div>
-        </li> -->
     </div>
 </ul>
