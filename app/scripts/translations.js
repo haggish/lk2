@@ -111,7 +111,277 @@ var com_laurakarki_translations = {
                 NAME: 'Huhuu oot sä unohtanu mut?',
                 DESC: '2008. Kuuntele teoksen ääni <a target="_blank" href="http://katastro.fi/~haggis/mp3/huhuuoneshot.mp3">täältä</a>'
             }
-        ]
+        ],
+
+        'CV': {
+            'EDUCATION': {
+                'EDUCATION': 'Koulutus',
+                'VALUES': [
+                    {
+                        "start": "2011-01-01T00:00:00.000Z",
+                        "end": "2012-01-01T00:00:00.000Z",
+                        'DESC': "Lyriikan verkkokurssi, KVS, Orivesi"
+                    },
+                    {
+                        "start": "2011-01-01T00:00:00.000Z",
+                        'DESC': "Suomen Taiteilijaseuran managerointihanke, projektipäällikkö Kira Sjöberg"
+                    },
+                    {
+                        "start": "2006-01-01T00:00:00.000Z",
+                        'DESC': "Taiteen maisteri, Taideteollinen korkeakoulu, Helsinki"
+                    },
+                    {
+                        "start": "2002-01-01T00:00:00.000Z",
+                        'DESC': "Tekstiilisuunnitteluartenomi, EVTEK Muotoiluinstituutti, Vantaa"
+                    },
+                    {
+                        "start": "1998-01-01T00:00:00.000Z",
+                        'DESC': "Keramiikka-alan artesaani, Tammelan käsi- ja taideteollisuusoppilaitos, Tammela"
+                    }
+                ]
+            },
+            'ARTISTIC_ACTIVITY': {
+                'ARTISTIC_ACTIVITY': "Taiteellinen toiminta",
+                'SELECT_PRIVATE_EXHIBITIONS': {
+                    'SELECT_PRIVATE_EXHIBITIONS': "Valikoidut yksityisnäyttelyt",
+                    'VALUES': [
+                        {
+                            "start": "2012-01-01T00:00:00.000Z",
+                            'DESC': "Vuotalon galleria, Helsinki (kutsuttuna)"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "Galleria Jangva, Helsinki"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "Taidekeskus Mältinrannan Galleria, Tampere"
+                        }
+                    ]
+                },
+                'GROUP_EXHIBITIONS': {
+                    'GROUP_EXHIBITIONS': "Yhteisnäyttelyt",
+                    'VALUES': [
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "Vesi - tunteita ja aistimuksia, Wäinö Aaltosen taidemuseo, Turku"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "NYT2011 - Together, Raision Taidemuseo Harkko, Raisio"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "ArteGround Art Festival, Viljandi, Viro"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "Factory Superstars, Helsingin Kaapelitehdas"
+                        }
+                    ]
+                },
+                'WORKS_IN_COLLECTIONS': {
+                    'WORKS_IN_COLLECTIONS': "Teoksia kokoelmissa",
+                    'VALUES': [
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "Suomen käsityön museo, Yksin - matkalaukkulamput, Jyväskylä"
+                        },
+                        {
+                            "start": "2004-01-01T00:00:00.000Z",
+                            'DESC': "Borenius & Kemppisen taidekokoelmat, 'New Story', Helsinki"
+                        }
+                    ]
+                },
+                'COMMISIONED_WORKS_PUBLIC_ART': {
+                    'COMMISIONED_WORKS_PUBLIC_ART': "Tilaustyöt, julkinen taide",
+                    'VALUES': [
+                        {
+                            "start": "2004-01-01T00:00:00.000Z",
+                            'DESC': "Hotelli Hilton, keramiikkatyö 'Ei valmis koskaan', Helsinki"
+                        },
+                        {
+                            "start": "2001-01-01T00:00:00.000Z",
+                            'DESC': "Helsingin messukeskus, Kipinä ja Ponnistus"
+                        },
+                        {
+                            "start": "2000-01-01T00:00:00.000Z",
+                            'DESC': "Helsingin Messukeskus, Mahdollisuuksia"
+                        }
+                    ]
+                },
+                'GRANTS': {
+                    'GRANTS': "Apurahat",
+                    'VALUES': [
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "Oskar Öflunds Stiftelse"
+                        },
+                        {
+                            "start": "2006-01-01T00:00:00.000Z",
+                            'DESC': "Valtion muotoilutoimikunta"
+                        }
+                    ]
+                },
+                'PRIZES': {
+                    'PRIZES': "Palkinnot",
+                    'VALUES': [
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "1. sija, Life Science Center-taideteoskilpailu"
+                        }
+                    ]
+                },
+                'ARTICLES': {
+                    'ARTICLES': "Lehtiartikkelit",
+                    'VALUES': [
+                        {
+                            "granularity": "day",
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Etelä-Suomen Sanomat, Uuden Kipinän näyttelyissä herää monia syviä tunteita, Jaana Parikka"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Uusi-Lahti, Kaipuu ja lohtu kietoutuvat yhteen, Heta Hassinen"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Etelä-Suomen Sanomat, Kuolema ja elämä on läsnä Kipinässä, Anne Siilahti"
+                        },
+                        {
+                            "granularity": "day",
+                            "start": "2009-08-05T00:00:00.000Z",
+                            'DESC': "Vihdin Uutiset, Vielä elämä on läsnä Kipinässä"
+                        },
+                        {
+                            "granularity": "day",
+                            "start": "2009-07-18T00:00:00.000Z",
+                            'DESC': "Karjalainen, Lähikuvia ja puhuva viherkasvi, Olli Sorjonen"
+                        },
+                        {
+                            "granularity": "month",
+                            "start": "2009-07-01T00:00:00.000Z",
+                            'DESC': "Karjalan Heili, Öljytynnyri taivasta vasten"
+                        },
+                        {
+                            "granularity": "day",
+                            "start": "2009-06-12T00:00:00.000Z",
+                            'DESC': "Rannikkoseutu, Setelipaaleja ja koira kassissa, Susanna Palm"
+                        }
+                    ]
+                },
+                'IN_PUBLICATIONS': {
+                    'IN_PUBLICATIONS': "Julkaisuissa",
+                    'VALUES': [
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "OTTO, Taiteilijat O, esittäytyminen Vantaan taidemuseossa 19.9.-3.1.2009"
+                        },
+                        {
+                            "start": "2007-01-01T00:00:00.000Z",
+                            'DESC': "Mäntän kulttuurin vuosikirja 2007, Gösta Serlachiuksen taidesäätiö, Mäntän kulttuuritoimisto ja Mäntän kuvataiteen ystävät Ry"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "Voimat, Fiskarsin kesänäyttely"
+                        },
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "Public Art, Taideteollinen korkeakoulu"
+                        }
+                    ]
+                },
+                'MEMBERSHIPS': {
+                    'MEMBERSHIPS': "Jäsenyydet",
+                    'VALUES': [
+                        {
+                            'DESC': "Muu Ry"
+                        },
+                        {
+                            'DESC': "Taiteilijat O Ry, varsinainen jäsen"
+                        },
+                        {
+                            'DESC': "Kuvasto Ry"
+                        },
+                        {
+                            'DESC': "Helsingin taiteilijaseura"
+                        }
+                    ]
+                },
+                'RESIDENCES': {
+                    'RESIDENCES': "Residenssit",
+                    'VALUES': [
+                        {
+                            "granularity": "month",
+                            "start": "2011-08-01T00:00:00.000Z",
+                            'DESC': "Suomen ateljeesäätiö, Italia, Firenze"
+                        },
+                        {
+                            "granularity": "month",
+                            "start": "2010-01-01T00:00:00.000Z",
+                            "end": "2010-02-01T00:00:00.000Z",
+                            'DESC': "Suomen ateljeesäätiö, Italia, Firenze"
+                        },
+                        {
+                            "granularity": "month",
+                            "start": "2009-03-01T00:00:00.000Z",
+                            'DESC': "Pohjois-Karjalan taidetoimikunta, Intia, Kochi"
+                        },
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "Uudenmaan taidetoimikunta, Saksa, Berliini"
+                        },
+                        {
+                            "start": "2007-01-01T00:00:00.000Z",
+                            'DESC': "Taiteilijat O, Meksiko, Oaxaca"
+                        }
+                    ]
+                },
+                'OTHER': {
+                    'OTHER': "Muut",
+                    'VALUES': [
+                        {
+                            "start": "2007-01-01T00:00:00.000Z",
+                            'DESC': "Taiteilijat O, marraskuun kuukauden taiteilija"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "YLE1, Lauantaivekkari, viikon taiteilija"
+                        }
+                    ]
+                }
+            },
+            'JOB_EXPERIENCE': {
+                'JOB_EXPERIENCE': "Työkokemus",
+                'VALUES': [
+                    {
+                        "start": "2007-01-01T00:00:00.000Z",
+                        "continuing": true,
+                        'DESC': "Freelancer-kuvataideopettaja, mm. Espoon kuvataidekoulu, Tuusulan kunnan lasten kulttuurin taidepajoja, Helsingin kaupungin opetusvirasto Sininen verstas, Vantaan taidemuseon työpajoja"
+                    },
+                    {
+                        "start": "2007-01-01T00:00:00.000Z",
+                        "end": "2008-01-01T00:00:00.000Z",
+                        'DESC': "Kurssisihteeri, Espoon kuvataidekoulu"
+                    },
+                    {
+                        "start": "2004-01-01T00:00:00.000Z",
+                        "end": "2006-01-01T00:00:00.000Z",
+                        'DESC': "Iltapäiväkerhon ohjaaja, Kaisaniemen ala-aste, Helsinki"
+                    },
+                    {
+                        "start": "2002-01-01T00:00:00.000Z",
+                        "end": "2007-01-01T00:00:00.000Z",
+                        'DESC': "Marimekko Oyj, Helsinki"
+                    },
+                    {
+                        "start": "2001-01-01T00:00:00.000Z",
+                        "end": "2002-01-01T00:00:00.000Z",
+                        'DESC': "Kuvataideopettaja, Soukan taideseura, kuvataidekoulu Tatavuu, Espoo"
+                    }
+                ]
+            }
+        }
     },
 
     'en': {
@@ -226,6 +496,218 @@ var com_laurakarki_translations = {
                 NAME: 'Hello Have You Forgotten About Me?',
                 DESC: '2008. Listen to the work\'s soundscape <a target="_blank" href="http://katastro.fi/~haggis/mp3/huhuuoneshot.mp3">here</a>'
             }
-        ]
+        ],
+
+        'CV': {
+            'EDUCATION': {
+                'EDUCATION': 'Koulutus',
+                'VALUES': [
+                    {
+                        'DESC': "Lyrics remote course, KVS, Orivesi"
+                    },
+                    {
+                        'DESC': "Finnish Artists Association management project, project manager Kira Sjöberg"
+                    },
+                    {
+                        'DESC': "Master of Arts, UIAH, Helsinki"
+                    },
+                    {
+                        'DESC': "Textile design artesan, EVTEK Institute of Design, Vantaa"
+                    },
+                    {
+                        'DESC': "Artesan of Ceramics, Tammela Institute of Arts and Crafts"
+                    }
+                ]
+            },
+            'ARTISTIC_ACTIVITY': {
+                'ARTISTIC_ACTIVITY': "Artistic activity",
+                'SELECT_PRIVATE_EXHIBITIONS': {
+                    'SELECT_PRIVATE_EXHIBITIONS': "Select private exhibitions",
+                    'VALUES': [
+                        {
+                            'DESC': "Vuotalon galleria (invited)"
+                        },
+                        {
+                            'DESC': "Jangva Gallery, Helsinki"
+                        },
+                        {
+                            'DESC': "Art Centre Mältinranta Gallery, Tampere"
+                        }
+                    ]
+                },
+                'GROUP_EXHIBITIONS': {
+                    'GROUP_EXHIBITIONS': "Group exhibitions",
+                    'VALUES': [
+                        {
+                            'DESC': "Water - feelings and senses, Wäinö Aaltonen art museum, Turku"
+                        },
+                        {
+                            'DESC': "NYT2011 - Together, Harkko Art museum of Raisio, Raisio"
+                        },
+                        {
+                            'DESC': "ArteGround Art Festival, Viljandi, Estonia"
+                        },
+                        {
+                            'DESC': "Factory Superstars, Cable Factory, Helsinki"
+                        }
+                    ]
+                },
+                'WORKS_IN_COLLECTIONS': {
+                    'WORKS_IN_COLLECTIONS': "Works in collections",
+                    'VALUES': [
+                        {
+                            'DESC': "Finnish arts & crafts museum, Alone - luggage lamps, Jyväskylä"
+                        },
+                        {
+                            'DESC': "Borenius & Kemppinen collection, 'New Story', Helsinki"
+                        }
+                    ]
+                },
+                'COMMISIONED_WORKS_PUBLIC_ART': {
+                    'COMMISIONED_WORKS_PUBLIC_ART': "Commissioned works, public art",
+                    'VALUES': [
+                        {
+                            'DESC': "Hotel Hilton, ceramics work 'Never Finished', Helsinki"
+                        },
+                        {
+                            'DESC': "Helsinki Fair Centre, Spark and Effort"
+                        },
+                        {
+                            'DESC': "Helsinki Fair Centre, Possibilities"
+                        }
+                    ]
+                },
+                'GRANTS': {
+                    'GRANTS': "Grants",
+                    'VALUES': [
+                        {
+                            'DESC': "Oskar Öflunds Stiftelse"
+                        },
+                        {
+                            'DESC': "National Design Committee"
+                        }
+                    ]
+                },
+                'PRIZES': {
+                    'PRIZES': "Prizes",
+                    'VALUES': [
+                        {
+                            'DESC': "1st place, Life Science Center artwork competition"
+                        }
+                    ]
+                },
+                'ARTICLES': {
+                    'ARTICLES': "Articles",
+                    'VALUES': [
+                        {
+                            'DESC': "Etelä-Suomen Sanomat, Uuden Kipinän näyttelyissä herää monia syviä tunteita, Jaana Parikka"
+                        },
+                        {
+                            'DESC': "Uusi-Lahti, Kaipuu ja lohtu kietoutuvat yhteen, Heta Hassinen"
+                        },
+                        {
+                            'DESC': "Etelä-Suomen Sanomat, Kuolema ja elämä on läsnä Kipinässä, Anne Siilahti"
+                        },
+                        {
+                            'DESC': "Vihdin Uutiset, Vielä elämä on läsnä Kipinässä"
+                        },
+                        {
+                            'DESC': "Karjalainen, Lähikuvia ja puhuva viherkasvi, Olli Sorjonen"
+                        },
+                        {
+                            'DESC': "Karjalan Heili, Öljytynnyri taivasta vasten"
+                        },
+                        {
+                            'DESC': "Rannikkoseutu, Setelipaaleja ja koira kassissa, Susanna Palm"
+                        }
+                    ]
+                },
+                'IN_PUBLICATIONS': {
+                    'IN_PUBLICATIONS': "In publications",
+                    'VALUES': [
+                        {
+                            'DESC': "OTTO, Artists O, presentation at Vantaa Art Museum 19.9.-3.1.2009"
+                        },
+                        {
+                            'DESC': "Mänttä culture yearbook 2007, Gösta Serlachius art trust, Mänttä bureau of culture and Mänttä friends of visual art Ry"
+                        },
+                        {
+                            'DESC': "Voimat, Fiskars summer exhibition"
+                        },
+                        {
+                            'DESC': "Public Art, UIAH"
+                        }
+                    ]
+                },
+                'MEMBERSHIPS': {
+                    'MEMBERSHIPS': "Memberships",
+                    'VALUES': [
+                        {
+                            'DESC': "Muu Ry"
+                        },
+                        {
+                            'DESC': "Artists O Ry, full member"
+                        },
+                        {
+                            'DESC': "Kuvasto Ry"
+                        },
+                        {
+                            'DESC': "Artist Society of Helsinki"
+                        }
+                    ]
+                },
+                'RESIDENCES': {
+                    'RESIDENCES': "Residences",
+                    'VALUES': [
+                        {
+                            'DESC': "Finnish Atelier Foundation, Italy, Florence"
+                        },
+                        {
+                            'DESC': "Finnish Atelier Foundation, Italy, Florence"
+                        },
+                        {
+                            'DESC': "North Carelian art foundation, India, Kochi"
+                        },
+                        {
+                            'DESC': "Uusimaa art foundation, Germany, Berlin"
+                        },
+                        {
+                            'DESC': "Artists O, Mexico, Oaxaca"
+                        }
+                    ]
+                },
+                'OTHER': {
+                    'OTHER': "Other",
+                    'VALUES': [
+                        {
+                            'DESC': "Artists O, November artist of the month"
+                        },
+                        {
+                            'DESC': "YLE1, Lauantaivekkari, artist of the week"
+                        }
+                    ]
+                }
+            },
+            'JOB_EXPERIENCE': {
+                'JOB_EXPERIENCE': "Job experience",
+                'VALUES': [
+                    {
+                        'DESC': "Freelancer visual arts teacher, Espoo school of visual arts, Tuusula county art workshops for children, Helsinki education bureau Sininen Verstas, Vantaa art museum workshops, and others"
+                    },
+                    {
+                        'DESC': "Course secretary, Espoo school of visual arts"
+                    },
+                    {
+                        'DESC': "Afternoon kids club counsellor, Kaisaniemi Grade School, Helsinki"
+                    },
+                    {
+                        'DESC': "Marimekko Oyj, Helsinki"
+                    },
+                    {
+                        'DESC': "Visual arts teacher, Soukka art society, visual arts school Tatavuu, Espoo"
+                    }
+                ]
+            }
+        }
     }
 };
