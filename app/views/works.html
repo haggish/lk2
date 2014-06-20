@@ -1,21 +1,11 @@
-<div lk-carousel id="workCarousel" class="carousel slide" data-ride="carousel">
+<carousel id="workCarousel" class="carousel slide" data-ride="carousel">
+    <slide active="slide.active" ng-repeat="work in works">
+        <img ng-src="../images/{{$index + 1}}.jpg" alt="{{work.name}}">
 
-    <!-- Wrapper for slides -->
-    <div class="carousel-inner">
-        <div class="item" ng-class="{active:$index==activeSlide}" ng-repeat="work in works">
-            <img ng-src="../images/{{$index + 1}}.jpg" alt="{{work.name}}">
-            <div class="carousel-caption">
-                <h3>{{work.name}}</h3>
-                <p ng-bind-html="work.desc"></p>
-            </div>
+        <div class="carousel-caption">
+            <h3>{{work.name}}</h3>
+
+            <p ng-bind-html="work.desc"></p>
         </div>
-    </div>
-
-    <!-- Controls -->
-    <span class="left carousel-control" href="#workCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-    </span>
-    <span class="right carousel-control" href="#workCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </span>
-</div>
+    </slide>
+</carousel>

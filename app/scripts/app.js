@@ -6,6 +6,7 @@ angular
         'ngResource',
         'ngSanitize',
         'ngRoute',
+        'ui.bootstrap',
         'pascalprecht.translate'
     ])
     .config(function ($routeProvider) {
