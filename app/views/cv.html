@@ -1,5 +1,14 @@
 <ul class="list-unstyled scrolledContent container">
-    <li class="row">
-        <div class="col-md-4">time</div><div class="col-md-8">desc</div>
-    </li>
+    <div id="section" ng-repeat="section in sections">
+        <h3 translate>CV.{{section}}</h3>
+
+        <div id="subsection"
+             ng-repeat="subsection in subsections[section]">
+            <h4 translate>CV.{{section}}.{{subsection}}</h4>
+        </div>
+        <!--
+        <li class="row">
+            <div class="col-md-4">time</div><div class="col-md-8">desc</div>
+        </li> -->
+    </div>
 </ul>

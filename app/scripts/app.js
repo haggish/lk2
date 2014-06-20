@@ -22,7 +22,8 @@ angular
                 templateUrl: '../views/intro_en.html'
             })
             .when('/cv/:whatever', {
-                templateUrl: '../views/cv.html'
+                templateUrl: '../views/cv.html',
+                controller: 'CV'
             })
             .when('/works/:whatever', {
                 templateUrl: '../views/works.html',

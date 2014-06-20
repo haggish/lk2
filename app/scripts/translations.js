@@ -193,8 +193,8 @@ var com_laurakarki_translations = {
                         }
                     ]
                 },
-                'COMMISIONED_WORKS_PUBLIC_ART': {
-                    'COMMISIONED_WORKS_PUBLIC_ART': "Tilaustyöt, julkinen taide",
+                'COMMISSIONED_WORKS_PUBLIC_ART': {
+                    'COMMISSIONED_WORKS_PUBLIC_ART': "Tilaustyöt, julkinen taide",
                     'VALUES': [
                         {
                             "start": "2004-01-01T00:00:00.000Z",
@@ -500,7 +500,7 @@ var com_laurakarki_translations = {
 
         'CV': {
             'EDUCATION': {
-                'EDUCATION': 'Koulutus',
+                'EDUCATION': 'Education',
                 'VALUES': [
                     {
                         'DESC': "Lyrics remote course, KVS, Orivesi"
@@ -563,8 +563,8 @@ var com_laurakarki_translations = {
                         }
                     ]
                 },
-                'COMMISIONED_WORKS_PUBLIC_ART': {
-                    'COMMISIONED_WORKS_PUBLIC_ART': "Commissioned works, public art",
+                'COMMISSIONED_WORKS_PUBLIC_ART': {
+                    'COMMISSIONED_WORKS_PUBLIC_ART': "Commissioned works, public art",
                     'VALUES': [
                         {
                             'DESC': "Hotel Hilton, ceramics work 'Never Finished', Helsinki"
