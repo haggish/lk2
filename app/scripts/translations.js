@@ -61,7 +61,7 @@ var com_laurakarki_translations = {
             },
             {
                 NAME: 'Torkkuvat mustatorvisienet',
-                DESC: '2010-2011. Ääni-installaatio oli esillä koko kesän vuonna 2011 Kumpulan kasvitieteellisessä puutarhassa osana Oon kaupungissa-kaupunkitaidetapahtumaa (ORNAMO 100 v.). Torvisienistä kuuluu hengittämisen ja nukkumisen äänimaailmaa. Teoksen tematiikka liittyy läsnäolon kokemuksiin. Torkkuvien mustatorvisienien musta väri on saatu aikaan mustasavustusmenetelmällä. Katso <a target="_blank" href="http://www.youtube.com/watch?v=Pc3JtgKAt-I&feature=player_embedded&noredirect=1">video</a>'
+                DESC: '2010-2011. Esillä kesän 2011 Kumpulan kasvitieteellisessä puutarhassa. Teoksen tematiikka liittyy läsnäolon kokemuksiin. Musta väri on saatu aikaan mustasavustusmenetelmällä. Torvisienistä kuuluu hengittämisen ja nukkumisen äänimaailmaa, kts. <a target="_blank" href="http://www.youtube.com/watch?v=Pc3JtgKAt-I&feature=player_embedded&noredirect=1">video</a>'
             },
             {
                 NAME: 'Hetken helpotuksia',
@@ -77,15 +77,15 @@ var com_laurakarki_translations = {
             },
             {
                 NAME: 'Kostealla sienellä, karhealla puolella vaivasin ihoani liasta eroon',
-                DESC: '2008. Ääni-installaation nimenä on kirjoittamani runo vuodelta 2004. Installaatio valmistui vuonna 2008. Teoksen kautta olen pohtinut sitä, kuinka yksinäiselle ihmiselle lämmin suihku ja pesusieni voi olla yksi läheisyyden muoto. Pesusienipyramidin muoto viittaa myös Abraham Maslown tarvehierarkiaan ja olen nostanut kosketusaistin stimuloinnin kattamaan koko pesusienipyramidin alaa. Lue <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">näyttelyanalyysi</a> 00130Galleryn näyttelystä vuodelta 2008. Peseytymisestä ja veden äänistä koostuva äänimaailma kuultavissa <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">täällä</a>. Kuva Galleria Rajatilasta vuodelta 2008.'
+                DESC: '2008. Olen pohtinut sitä, kuinka yksinäiselle ihmiselle lämmin suihku ja pesusieni voi olla yksi läheisyyden muoto. Pyramidimuoto viittaa myös Abraham Maslown tarvehierarkiaan. Lue <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">näyttelyanalyysi</a> 00130Galleryn näyttelystä. Peseytymisestä ja veden äänistä koostuva äänimaailma kuultavissa <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">täällä</a>. Kuva Galleria Rajatilasta'
             },
             {
                 NAME: 'Hiiliperhonen on nimesi, kaipaat kiinnitettä siipiisi',
-                DESC: '2009. Teossarjan nimenä on kirjoittamani runo vuodelta 2002. Galleria Uudessa Kipinässä Lahdessa esillä olleessa kangasprinttiveistossarjassa kuvasin lapsuudessa koettuja hetkiä. Pohdin teosteni kautta sitä, millaisen tunnemuiston joku asia voi jättää mieleen koko loppuelämän ajaksi. Näyttelyn jälkeen kehittelin ideoista <a target="_blank" href="http://muhku-kangasprinttiveistokset.blogspot.com/">MUHKUprintin</a>'
+                DESC: '2009. Sarjassa kuvasin lapsuudessa koettuja hetkiä. Pohdin teosteni kautta sitä, millaisen tunnemuiston joku asia voi jättää mieleen koko loppuelämän ajaksi. Näyttelyn jälkeen kehittelin ideoista <a target="_blank" href="http://muhku-kangasprinttiveistokset.blogspot.com/">MUHKUprintin</a>'
             },
             {
                 NAME: 'Ruokahetkiä',
-                DESC: '2009. Art Helsingissä, Helsingin Messukeskuksessa esittelin O-Gallerian osastolla Ruokahetkiä-nimisen teossarjan. Materiaalina kodin käytettyjä leivinpapereita, joihin paisti, pullat, sämpylät ja patongit ovat jättäneet jälkensä. Teossarjaan kuului Koti-niminen ääniteos jonka voit kuunnella <a target="_blank" href="http://www.hennainkinen.net/videot/KODINAANET%20mast.wav">tästä</a>'
+                DESC: '2009. Art Helsingissä esittelin Ruokahetkiä-nimisen teossarjan. Materiaalina kodin käytettyjä leivinpapereita, joihin paisti, pullat, sämpylät ja patongit ovat jättäneet jälkensä. Teossarjaan kuului Koti-niminen ääniteos, kuunneltavissa <a target="_blank" href="http://www.hennainkinen.net/videot/KODINAANET%20mast.wav">täältä</a>'
             },
             {
                 NAME: 'Kiire kosketuksien välissä',
@@ -685,11 +685,11 @@ var com_laurakarki_translations = {
             },
             {
                 NAME: 'Pill Days',
-                DESC: '2010. Material is ceramics cast from contraceptive pill packagins, smoked after raw burning with black smoking technique'
+                DESC: '2010. Material is ceramics cast from contraceptive pill packagings, smoked after raw burning with black smoking technique'
             },
             {
                 NAME: 'Snoring Black Trumpet Mushrooms',
-                DESC: '2010-2011. The sound installation was exhibited the whole summer of 2011 in Kumpula Botanical Garden as a part of Oon Kaupungissa city art event (ORNAMO 100 years). The mushrooms emit sounds of breathing and sleeping. The theme of the work relates to experience of being present. The black colour is a result of black smoking technique. See also <a target="_blank" href="http://www.youtube.com/watch?v=Pc3JtgKAt-I&feature=player_embedded&noredirect=1">video</a>'
+                DESC: '2010-2011. Exhibited in 2011 in Kumpula Botanical Garden. The themes relate to experience of being present. Black colour is a result of black smoking technique. The mushrooms emit sounds of breathing and sleeping, see <a target="_blank" href="http://www.youtube.com/watch?v=Pc3JtgKAt-I&feature=player_embedded&noredirect=1">video</a>.'
             },
             {
                 NAME: 'Momentary Reliefs',
@@ -705,15 +705,15 @@ var com_laurakarki_translations = {
             },
             {
                 NAME: 'With A Moist Sponge, Rough Side I Rubbed My Skin From The Grime',
-                DESC: '2008. The name of the sound installation comes from a poem I wrote in year 2004. The installation was completed in 2008. Through this work I have thought about how to a lonely person, a warm shower and washing sponge can be one form of intimacy. The form of the sponge pyramid refers also to Abraham Maslow\'s hierarchy of needs and I have raised the stimulation of sense of touch to cover the whole area of the pyramid. Read the <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">analysis</a> on the 00130 Gallery exhibition in year 2008. The soundscape that consists of sounds of water and washing can be heard <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">here</a>. The picture is taken in Gallery Rajatila in year 2008'
+                DESC: '2008. I have thought about how to a lonely person, a warm shower and washing sponge can be one form of intimacy. The pyramid form refers also to Abraham Maslow\'s hierarchy of needs. Read the <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">analysis</a> on the 00130 Gallery exhibition in 2008. The soundscape consisting of sounds of water and washing can be heard <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">here</a>. The picture from Gallery Rajatila'
             },
             {
                 NAME: 'Coal Butterfly Is Your Name, You Need Fixative To Your Wings',
-                DESC: '2009. The name of the series comes from a poem I wrote in 2002. In the fabric print sculpture series exhibited in Galleria Uusi Kipinä, I depicted moments experienced in childhood. I thought about what kind of memory of feeling something can cause to last for the rest of one\'s life. The ideas gave also birth to <a target="_blank" href="http://muhku-kangasprinttiveistokset.blogspot.com/">MUHKUprint</a>'
+                DESC: '2009. In this fabric print sculpture series I depicted moments experienced in childhood. I thought about what kind of memory of feeling something can cause to last for the rest of one\'s life. The ideas gave also birth to <a target="_blank" href="http://muhku-kangasprinttiveistokset.blogspot.com/">MUHKUprint</a>'
             }, // todo lisää teoskuvia http://www.laurakarki.com/veistos17.html
             {
                 NAME: 'Culinary Moments',
-                DESC: '2010. At Art Helsinki, in Helsinki Fair Center I presented Culinary Moments series at the Gallery O department. The material is used oven papers where roasts, cinnamon buns, rolls and baguettes have left their marks. One part of the series is Home sound installation which you can listen to <a target="_blank" href="http://www.hennainkinen.net/videot/KODINAANET%20mast.wav">here</a>'
+                DESC: '2010. At Art Helsinki, I presented Culinary Moments series. The material is used oven papers where roasts, cinnamon buns, rolls and baguettes have left their marks. One part of the series is Home sound installation which you can listen to <a target="_blank" href="http://www.hennainkinen.net/videot/KODINAANET%20mast.wav">here</a>'
             },
             {
                 NAME: 'Haste Between Touches',
