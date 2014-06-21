@@ -156,6 +156,30 @@ var com_laurakarki_translations = {
                         {
                             "start": "2011-01-01T00:00:00.000Z",
                             'DESC': "Taidekeskus Mältinrannan Galleria, Tampere"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Galleria Kajava, Helsinki"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Galleria Uusi Kipinä, Lahti"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Taidekeskus Ahjo, Joensuu"
+                        },
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "00130Gallery, Helsinki"
+                        },
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "Galleria Rajatila, Tampere"
+                        },
+                        {
+                            "start": "2007-01-01T00:00:00.000Z",
+                            'DESC': "Kanneltalon Galleria, Helsinki"
                         }
                     ]
                 },
@@ -176,7 +200,115 @@ var com_laurakarki_translations = {
                         },
                         {
                             "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "Oon kaupungissa, Ornamon 100v-kaupunkitaidetapahtuma, Helsinki"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
                             'DESC': "Factory Superstars, Helsingin Kaapelitehdas"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "Mennään metsään, Helsingin Taiteilijaseuran kesänäyttely, Galleria Rantakasarmi"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "ArtHelsinki2010, Helsingin Messukeskus"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "Art Fair Suomi 2010, Helsingin Kaapelitehdas"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "Cable Fair 2010, Kaapelitehtaan Valssaamo"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "Ornamon teosmyynti, Helsingin Kaapelitehdas"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Art Helsinki 2009, Wanha Satama, Helsinki"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "OTTO-näyttely, Circulo de Bellas Artes, Madrid, Espanja"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Art Fair Suomi, Helsingin Kaapelitehdas"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Vihdin taideraitti, Takaisin luontoon, Vihti"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Money, money, money, Raision taidemuseo Harkko"
+                        },
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "OTTO Taiteilijat O ry:n esittäytymisnäyttely, Vantaan taidemuseo"
+                        },
+                        {
+                            "start": "2008-01-01T00:00:00.000Z",
+                            'DESC': "Rytmiä! NYT08 Naantalin ja Raision nykytaiteen kesä, Raision museo Harkko"
+                        },
+                        {
+                            "start": "2007-01-01T00:00:00.000Z",
+                            'DESC': "Papru - Valtakunnallinen paperitaidenäyttely, G.A. Serlachius-museo, Mäntän kuvataideviikot"
+                        },
+                        {
+                            "start": "2006-01-01T00:00:00.000Z",
+                            'DESC': "Masters of Arts, Mediakeskus Lume, Helsinki"
+                        },
+                        {
+                            "start": "2006-01-01T00:00:00.000Z",
+                            'DESC': "UUsiks, Käsi- ja taideteollisuuskeskus Verkaranta, Tampere"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "Kuvan äärellä, Mediakeskus Lumeen galleria, Helsinki"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "INFORM - TR1 Finnlayson, Tampere"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "VOIMAT - Fiskarsin kesänäyttely, Pohja"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "Art of Analyste, Sanomatalo, Helsinki"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "Hiusmurtumia, Taitemia-galleria, Kuopio; Wetterhoff-galleria, Hämeenlinna; Atski-galleria, Helsinki; Lahden taidepanimon pullopesulan galleria, Lahti"
+                        },
+                        {
+                            "start": "2005-01-01T00:00:00.000Z",
+                            'DESC': "INFORM - Design Forum, Helsinki"
+                        },
+                        {
+                            "start": "2004-01-01T00:00:00.000Z",
+                            'DESC': "Ceramega 04, Voipaalan taidekeskus, Valkeakoski"
+                        },
+                        {
+                            "start": "2004-01-01T00:00:00.000Z",
+                            'DESC': "Taidetta julkiseen tilaan, Nordiska Investment Bank, Helsinki"
+                        },
+                        {
+                            "start": "2004-01-01T00:00:00.000Z",
+                            'DESC': "Kuvan äärellä, Mediakeskus Lumeen galleria, Helsinki"
+                        },
+                        {
+                            "start": "2003-01-01T00:00:00.000Z",
+                            'DESC': "Tahto & Taito-kilpailun parhaimmisto, Sanomatalo, Helsinki"
+                        },
+                        {
+                            "start": "2003-01-01T00:00:00.000Z",
+                            'DESC': "Déjà-vu -kierrätystaidetta Mediakeskus Lumeen galleria, Helsinki"
                         }
                     ]
                 },
@@ -532,6 +664,24 @@ var com_laurakarki_translations = {
                         },
                         {
                             'DESC': "Art Centre Mältinranta Gallery, Tampere"
+                        },
+                        {
+                            'DESC': "Gallery Kajava, Helsinki"
+                        },
+                        {
+                            'DESC': "Gallery Uusi Kipinä, Lahti"
+                        },
+                        {
+                            'DESC': "Art Centre Ahjo, Joensuu"
+                        },
+                        {
+                            'DESC': "00130Gallery, Helsinki"
+                        },
+                        {
+                            'DESC': "Gallery Rajatila, Tampere"
+                        },
+                        {
+                            'DESC': "Kanneltalo Gallery, Helsinki"
                         }
                     ]
                 },
@@ -548,7 +698,88 @@ var com_laurakarki_translations = {
                             'DESC': "ArteGround Art Festival, Viljandi, Estonia"
                         },
                         {
+                            'DESC': "Oon Kaupungissa, Ornamo 100 years city art event, Helsinki"
+                        },
+                        {
                             'DESC': "Factory Superstars, Cable Factory, Helsinki"
+                        },
+                        {
+                            'DESC': "To The Woods, Helsinki Artists\' Association summer exhibition, Gallery Rantakasarmi"
+                        },
+                        {
+                            'DESC': "ArtHelsinki2010, Helsinki Fair Centre"
+                        },
+                        {
+                            'DESC': "Art Fair Suomi 2010, Cable Factory, Helsinki"
+                        },
+                        {
+                            'DESC': "Cable Fair 2010, Rolling Mill of Cable Factory, Helsinki"
+                        },
+                        {
+                            'DESC': "Ornamo Work Sales, Cable Factory, Helsinki"
+                        },
+                        {
+                            'DESC': "Art Helsinki 2009, Wanha Satama, Helsinki"
+                        },
+                        {
+                            'DESC': "OTTO exhibition, Circulo de Bellas Artes, Madrid, Spain"
+                        },
+                        {
+                            'DESC': "Art Fair Suomi, Cable Factory, Helsinki"
+                        },
+                        {
+                            'DESC': "Vihdin Art Route, Back to the nature, Vihti"
+                        },
+                        {
+                            'DESC': "Money, money, money, Raisio Art Museum Harkko"
+                        },
+                        {
+                            'DESC': "OTTO Artists O ry Introduction Exhibition, Vantaan Art Museum"
+                        },
+                        {
+                            'DESC': "Rhythm! NYT08 Naantali and Raisio Contemporary Summer, Raisio Art Museum Harkko"
+                        },
+                        {
+                            'DESC': "Papru - National paper art exhibition, G.A. Serlachius Museum, Mänttä visual arts weeks"
+                        },
+                        {
+                            'DESC': "Masters of Arts, Media Centre Lume, Helsinki"
+                        },
+                        {
+                            'DESC': "Again, Arts and crafts centre Verkaranta, Tampere"
+                        },
+                        {
+                            'DESC': "By the picture, Media Centre Lume Gallery, Helsinki"
+                        },
+                        {
+                            'DESC': "INFORM - TR1 Finnlayson, Tampere"
+                        },
+                        {
+                            'DESC': "VOIMAT - Fiskars summer exhibition, Pohja"
+                        },
+                        {
+                            'DESC': "Art of Analyste, Sanomatalo, Helsinki"
+                        },
+                        {
+                            'DESC': "Microruptures, Taitemia Gallery, Kuopio; Wetterhoff Gallery, Hämeenlinna; Atski Gallery, Helsinki; Lahti Art Brewery\'s Bottle Washery\'s Gallery, Lahti"
+                        },
+                        {
+                            'DESC': "INFORM - Design Forum, Helsinki"
+                        },
+                        {
+                            'DESC': "Ceramega 04, Voipaala Art Centre, Valkeakoski"
+                        },
+                        {
+                            'DESC': "Art for public space, Nordiska Investment Bank, Helsinki"
+                        },
+                        {
+                            'DESC': "By the picture, Media Centre Lumee Gallery, Helsinki"
+                        },
+                        {
+                            'DESC': "The best of Will & Skill competition, Sanomatalo, Helsinki"
+                        },
+                        {
+                            'DESC': "Déjà-vu - recycling art, Media Centre Lume Gallery, Helsinki"
                         }
                     ]
                 },

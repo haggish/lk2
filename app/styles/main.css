@@ -1,19 +1,21 @@
 /*
-Syntax error: File to import not found or unreadable: bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.
+Syntax error: File to import not found or unreadable: compass.
               Load path: /media/truecrypt1/nodejstest/app/lk/app/styles
-        on line 3 of main.scss
+        on line 5 of main.scss
 
 1: $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
 2: 
-3: @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
+3: @import '../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
 4: 
 5: @import "compass";
 6: 
 7: // bower:scss
 8: @import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+9: // endbower
+10: 
 
 Backtrace:
-main.scss:3
+main.scss:5
 /home/salmimik/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.12/lib/sass/tree/import_node.rb:67:in `rescue in import'
 /home/salmimik/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.12/lib/sass/tree/import_node.rb:45:in `import'
 /home/salmimik/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.12/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -53,4 +55,4 @@ main.scss:3
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: File to import not found or unreadable: bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.\A               Load path: /media/truecrypt1/nodejstest/app/lk/app/styles\A         on line 3 of main.scss\A \A 1: $icon-font-path: \"/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/\";\A 2: \A 3: @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';\A 4: \A 5: @import \"compass\";\A 6: \A 7: // bower:scss\A 8: @import \"../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss\";"; }
+  content: "Syntax error: File to import not found or unreadable: compass.\A               Load path: /media/truecrypt1/nodejstest/app/lk/app/styles\A         on line 5 of main.scss\A \A 1: $icon-font-path: \"/bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/\";\A 2: \A 3: @import '../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';\A 4: \A 5: @import \"compass\";\A 6: \A 7: // bower:scss\A 8: @import \"../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss\";\A 9: // endbower\A 10: "; }
