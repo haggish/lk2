@@ -29,17 +29,17 @@
 <![endif]-->
 
 <div class="container-fluid" ng-controller="Container">
-    <div class="header">
-        <ul class="navtabs nav nav-pills pull-right">
+    <div class="header row">
+        <h1 class="col-xs-12 col-sm-7 col-md-4 title text-muted">laura kärki
+            <small translate>CONTAINER.PROFESSION</small>
+        </h1>
+        <ul class="col-xs-12 col-sm-5 col-md-offset-4 col-md-4 navtabs nav nav-pills pull-right">
             <li ng-repeat="tab in tabs" ng-class="{active:selectedTab==tab}"><a
                     translate
                     ng-click="select(tab)"
                     ng-href="#/{{tab.toLowerCase()}}/{{locale()}}">CONTAINER.TABS.{{tab}}</a>
             </li>
         </ul>
-        <h1 class="title text-muted">laura kärki
-            <small translate>CONTAINER.PROFESSION</small>
-        </h1>
     </div>
     <div class="headerBack"></div>
 
@@ -71,6 +71,7 @@
                 - <a target="_blank"
                      href="http://www.finnishdesigners.fi/portfolio/laura.karki">finnishdesigners</a>
             </p>
+
             <p translate>CONTAINER.FOOTER.EMAIL</p></p>
         </div>
     </div>

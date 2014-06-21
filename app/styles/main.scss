@@ -31,10 +31,6 @@ body {
   padding-bottom: 80px;
 }
 
-.navtabs {
-  margin-right: 10px;
-}
-
 .footerLinks {
   margin-right: 20px;
   text-align: right;
@@ -89,6 +85,27 @@ body {
 
   .fadein {
     top: 110px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav-tabs > li, .nav-pills > li {
+    float: none;
+    display: inline-block;
+    *display: inline; /* ie7 fix */
+    zoom: 1; /* hasLayout ie7 trigger */
+  }
+
+  .nav-tabs, .nav-pills {
+    text-align: center;
+  }
+
+  .navtabs {
+    text-align: center;
+  }
+
+  .title {
+    text-align: center;
   }
 }
 
