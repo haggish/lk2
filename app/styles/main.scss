@@ -116,6 +116,11 @@ body {
   height: 525px;
 }
 
+.carousel-caption {
+  color: black;
+  position: static;
+}
+
 .carousel-control.left, .carousel-control.right {
   background-image: none;
 }
