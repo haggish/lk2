@@ -124,7 +124,7 @@ var com_laurakarki_translations = {
                     },
                     {
                         "start": "2011-01-01T00:00:00.000Z",
-                        'DESC': "Suomen Taiteilijaseuran managerointihanke, projektipäällikkö Kira Sjöberg"
+                        'DESC': "Suomen Taiteilijaseuran managerointihanke (Kira Sjöberg)"
                     },
                     {
                         "start": "2006-01-01T00:00:00.000Z",
@@ -737,7 +737,7 @@ var com_laurakarki_translations = {
                         'DESC': "Lyrics remote course, Etäopisto, Orivesi"
                     },
                     {
-                        'DESC': "Finnish Artists Association management project, project manager Kira Sjöberg"
+                        'DESC': "Finnish Artists Association management project by Kira Sjöberg"
                     },
                     {
                         'DESC': "Master of Arts, UIAH, Helsinki"
