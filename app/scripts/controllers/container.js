@@ -54,11 +54,25 @@ angular.module('lkApp')
 
         function localeSpecific(path) {
             // todo generalization magic when actually needed
-            return path.indexOf('/intro/') === 0;
+            return intro(path) || other(path);
         }
 
         function relocalized(path, newLocale) {
             // todo regexp magic when actually needed
-            return '/intro/' + newLocale;
+            if (intro(path)) {
+                return '/intro/' + newLocale;
+            } else if (other(path)) {
+                return '/other/' + newLocale;
+            } else {
+                return path;
+            }
+        }
+
+        function intro (path) {
+            return path.indexOf('/intro/') === 0;
+        }
+
+        function other (path) {
+            return path.indexOf('/other/') === 0;
         }
     });

@@ -29,8 +29,11 @@ angular
                 templateUrl: '../views/works.html',
                 controller: 'Works'
             })
-            .when('/other/:whatever', {
-                templateUrl: '../views/other.html'
+            .when('/other/fi', {
+                templateUrl: '../views/other_fi.html'
+            })
+            .when('/other/en', {
+                templateUrl: '../views/other_en.html'
             })
             .otherwise({
                 redirectTo: '/new/en'
