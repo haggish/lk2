@@ -119,8 +119,8 @@ var com_laurakarki_translations = {
                 'VALUES': [
                     {
                         "start": "2011-01-01T00:00:00.000Z",
-                        "end": "2012-01-01T00:00:00.000Z",
-                        'DESC': "Lyriikan verkkokurssi, KVS, Orivesi"
+                        "end": "2013-01-01T00:00:00.000Z",
+                        'DESC': "Lyriikan verkkokurssi, Etäopisto, Orivesi"
                     },
                     {
                         "start": "2011-01-01T00:00:00.000Z",
@@ -146,6 +146,13 @@ var com_laurakarki_translations = {
                     'SELECT_PRIVATE_EXHIBITIONS': "Valikoidut yksityisnäyttelyt",
                     'VALUES': [
                         {
+                            "start": "2014-01-01T00:00:00.000Z",
+                            'DESC': "Showroom Berliini, Berliini"
+                        },
+                        {
+                            "start": "2014-01-01T00:00:00.000Z",
+                            'DESC': "Galleria Katariina, Helsinki"
+                        },                        {
                             "start": "2012-01-01T00:00:00.000Z",
                             'DESC': "Vuotalon galleria, Helsinki (kutsuttuna)"
                         },
@@ -186,6 +193,38 @@ var com_laurakarki_translations = {
                 'GROUP_EXHIBITIONS': {
                     'GROUP_EXHIBITIONS': "Yhteisnäyttelyt",
                     'VALUES': [
+                        {
+                            "start": "2014-01-01T00:00:00.000Z",
+                            'DESC': "Kuusiston kesä, kesänäyttely, Kaarina"
+                        },
+                        {
+                            "start": "2014-01-01T00:00:00.000Z",
+                            'DESC': "Frankfurtin Suomi-asema, Westhafenpier-näyttelytila, Frankfurt, Saksa"
+                        },
+                        {
+                            "start": "2014-01-01T00:00:00.000Z",
+                            'DESC': "Out and About, Vanha Kappalaisentalu, Porvoo"
+                        },
+                        {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Import Shop Berlin, Marimekon kattauksessa installaatio Kuokkavieraat, Berliini, Saksa"
+                        },
+                        {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Galleria Katariina, YLLÄTYS, Helsingin taiteilijaseuran jyrytetty joulunäyttely"
+                        },
+                        {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Out and About - ryhmä Taiteilijat O Ry:n taiteilijoita, Estonian Museum of Applied Art and Design (ETOM), Viro"
+                        },
+                        {
+                            "start": "2012-01-01T00:00:00.000Z",
+                            'DESC': "Ars Auttoisten kesänäyttely, Auttoinen (kutsuttuna)"
+                        },
+                        {
+                            "start": "2012-01-01T00:00:00.000Z",
+                            'DESC': "Atelierhof Kreuzberg, Berliini, Saksa"
+                        },
                         {
                             "start": "2011-01-01T00:00:00.000Z",
                             'DESC': "Vesi - tunteita ja aistimuksia, Wäinö Aaltosen taidemuseo, Turku"
@@ -316,6 +355,14 @@ var com_laurakarki_translations = {
                     'WORKS_IN_COLLECTIONS': "Teoksia kokoelmissa",
                     'VALUES': [
                         {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Yksityiset kokoelmat"
+                        },
+                        {
+                            "start": "2012-01-01T00:00:00.000Z",
+                            'DESC': "Suomen valtion taidekokoelmat"
+                        },
+                        {
                             "start": "2008-01-01T00:00:00.000Z",
                             'DESC': "Suomen käsityön museo, Yksin - matkalaukkulamput, Jyväskylä"
                         },
@@ -346,6 +393,38 @@ var com_laurakarki_translations = {
                     'GRANTS': "Apurahat",
                     'VALUES': [
                         {
+                            "start": "2014-01-01T00:00:00.000Z",
+                            'DESC': "Taiteen edistämiskeskus, apuraha kansainvälisiin hankkeisiin, henkilökohtainen"
+                        },
+                        {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Suomen taiteilijaseura, matka-apuraha, henkilökohtainen"
+                        },
+                        {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Nordic Culture Point, työryhmälle"
+                        },
+                        {
+                            "start": "2013-01-01T00:00:00.000Z",
+                            'DESC': "Taiteen edistämiskeskus, työryhmälle"
+                        },
+                        {
+                            "start": "2011-01-01T00:00:00.000Z",
+                            'DESC': "Matka-apuraha, Suomen taiteilijaseura"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "Taiteen keskustoimikunta, Arteground-ryhmälle"
+                        },
+                        {
+                            "start": "2010-01-01T00:00:00.000Z",
+                            'DESC': "Matka-apuraha, Suomen taiteilijaseura"
+                        },
+                        {
+                            "start": "2009-01-01T00:00:00.000Z",
+                            'DESC': "Matka-apuraha, Taiteen keskustoimikunta"
+                        },
+                        {
                             "start": "2008-01-01T00:00:00.000Z",
                             'DESC': "Oskar Öflunds Stiftelse"
                         },
@@ -364,7 +443,7 @@ var com_laurakarki_translations = {
                         }
                     ]
                 },
-                'ARTICLES': {
+                /* 'ARTICLES': {
                     'ARTICLES': "Lehtiartikkelit",
                     'VALUES': [
                         {
@@ -422,7 +501,7 @@ var com_laurakarki_translations = {
                             'DESC': "Public Art, Taideteollinen korkeakoulu"
                         }
                     ]
-                },
+                }, */
                 'MEMBERSHIPS': {
                     'MEMBERSHIPS': "Jäsenyydet",
                     'VALUES': [
@@ -445,14 +524,24 @@ var com_laurakarki_translations = {
                     'VALUES': [
                         {
                             "granularity": "month",
+                            "start": "2014-04-01T00:00:00.000Z",
+                            'DESC': "Sfakiotes-residenssi, Lefkada, Kreikka"
+                        },
+                        {
+                            "granularity": "month",
+                            "start": "2013-09-01T00:00:00.000Z",
+                            'DESC': "Suomen ateljeesäätiö, Marbella, Espanja"
+                        },
+                        {
+                            "granularity": "month",
                             "start": "2011-08-01T00:00:00.000Z",
-                            'DESC': "Suomen ateljeesäätiö, Italia, Firenze"
+                            'DESC': "Suomen ateljeesäätiö, Firenze, Italia"
                         },
                         {
                             "granularity": "month",
                             "start": "2010-01-01T00:00:00.000Z",
                             "end": "2010-02-01T00:00:00.000Z",
-                            'DESC': "Suomen ateljeesäätiö, Italia, Firenze"
+                            'DESC': "Suomen ateljeesäätiö, Firenze, Italia"
                         },
                         {
                             "granularity": "month",
@@ -486,6 +575,16 @@ var com_laurakarki_translations = {
             'JOB_EXPERIENCE': {
                 'JOB_EXPERIENCE': "Työkokemus",
                 'VALUES': [
+                    {
+                        "start": "2014-01-01T00:00:00.000Z",
+                        "continuing": true,
+                        'DESC': "Showroom Berliini, perustajajäsen Hanna Ojamon ja Tero Puhan kanssa"
+                    },
+                    {
+                        "start": "2012-01-01T00:00:00.000Z",
+                        "continuing": true,
+                        'DESC': "Berliinin Suomi-koulu, taidetyöpajoja"
+                    },
                     {
                         "start": "2007-01-01T00:00:00.000Z",
                         "continuing": true,
@@ -635,7 +734,7 @@ var com_laurakarki_translations = {
                 'EDUCATION': 'Education',
                 'VALUES': [
                     {
-                        'DESC': "Lyrics remote course, KVS, Orivesi"
+                        'DESC': "Lyrics remote course, Etäopisto, Orivesi"
                     },
                     {
                         'DESC': "Finnish Artists Association management project, project manager Kira Sjöberg"
@@ -656,6 +755,12 @@ var com_laurakarki_translations = {
                 'SELECT_PRIVATE_EXHIBITIONS': {
                     'SELECT_PRIVATE_EXHIBITIONS': "Select private exhibitions",
                     'VALUES': [
+                        {
+                            'DESC': "Showroom Berliini, Berlin"
+                        },
+                        {
+                            'DESC': "Gallery Katariina, Helsinki"
+                        },
                         {
                             'DESC': "Vuotalon galleria (invited)"
                         },
@@ -688,6 +793,30 @@ var com_laurakarki_translations = {
                 'GROUP_EXHIBITIONS': {
                     'GROUP_EXHIBITIONS': "Group exhibitions",
                     'VALUES': [
+                        {
+                            'DESC': "Kuusisto Summer, summer exhibition, Kaarina"
+                        },
+                        {
+                            'DESC': "Frankfurt Finland-Centrum, Westhafenpier exhibition space, Frankfurt, Germany"
+                        },
+                        {
+                            'DESC': "Out and About, Vanha Kappalaisentalu, Porvoo"
+                        },
+                        {
+                            'DESC': "Import Shop Berlin, Marimekko department installation Gatecrashers, Berlin, Germany"
+                        },
+                        {
+                            'DESC': "Gallery Katariina, SURPRISE, Helsinki Artists\' Association Jury-based Christmas Exhibition"
+                        },
+                        {
+                            'DESC': "Out and About - a group of Taiteilijat O Ry artists, Estonian Museum of Applied Art and Design (ETOM), Estonia"
+                        },
+                        {
+                            'DESC': "Ars Auttoinen summer exhibition, Auttoinen (invited)"
+                        },
+                        {
+                            'DESC': "Atelierhof Kreuzberg, Berlin, Germany"
+                        },
                         {
                             'DESC': "Water - feelings and senses, Wäinö Aaltonen art museum, Turku"
                         },
@@ -787,6 +916,12 @@ var com_laurakarki_translations = {
                     'WORKS_IN_COLLECTIONS': "Works in collections",
                     'VALUES': [
                         {
+                            'DESC': "Private collections"
+                        },
+                        {
+                            'DESC': "Finnish State Art collections"
+                        },
+                        {
                             'DESC': "Finnish arts & crafts museum, Alone - luggage lamps, Jyväskylä"
                         },
                         {
@@ -812,6 +947,30 @@ var com_laurakarki_translations = {
                     'GRANTS': "Grants",
                     'VALUES': [
                         {
+                            'DESC': "Arts Promotion Centre Finland, personal grant for international projects"
+                        },
+                        {
+                            'DESC': "Artists\' Association of Finland, personal travel grant"
+                        },
+                        {
+                            'DESC': "Nordic Culture Point, for a working group"
+                        },
+                        {
+                            'DESC': "Arts Promotion Centre Finland, for a working group"
+                        },
+                        {
+                            'DESC': "Artists\' Association of Finland, travel grant"
+                        },
+                        {
+                            'DESC': "Arts Promotion Centre Finland, for Arteground group"
+                        },
+                        {
+                            'DESC': "Artists\' Association of Finland, tranvel grant"
+                        },
+                        {
+                            'DESC': "Arts Promotion Centre Finland, travel grant"
+                        },
+                        {
                             'DESC': "Oskar Öflunds Stiftelse"
                         },
                         {
@@ -827,7 +986,7 @@ var com_laurakarki_translations = {
                         }
                     ]
                 },
-                'ARTICLES': {
+                /* 'ARTICLES': {
                     'ARTICLES': "Articles",
                     'VALUES': [
                         {
@@ -869,7 +1028,7 @@ var com_laurakarki_translations = {
                             'DESC': "Public Art, UIAH"
                         }
                     ]
-                },
+                }, */
                 'MEMBERSHIPS': {
                     'MEMBERSHIPS': "Memberships",
                     'VALUES': [
@@ -890,6 +1049,12 @@ var com_laurakarki_translations = {
                 'RESIDENCES': {
                     'RESIDENCES': "Residences",
                     'VALUES': [
+                        {
+                            'DESC': "Sfakiotes residency programme, Lefkada, Greece"
+                        },
+                        {
+                            'DESC': "Finnish Atelier Foundation, Marbella, Spain"
+                        },
                         {
                             'DESC': "Finnish Atelier Foundation, Italy, Florence"
                         },
@@ -922,6 +1087,12 @@ var com_laurakarki_translations = {
             'JOB_EXPERIENCE': {
                 'JOB_EXPERIENCE': "Job experience",
                 'VALUES': [
+                    {
+                        'DESC': "Showroom Berliini, founder together with Hanna Ojamo and Tero Puha"
+                    },
+                    {
+                        'DESC': "Finnish school of Berlin, art workshops"
+                    },
                     {
                         'DESC': "Freelancer visual arts teacher, Espoo school of visual arts, Tuusula county art workshops for children, Helsinki education bureau Sininen Verstas, Vantaa art museum workshops, and others"
                     },

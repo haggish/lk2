@@ -14,8 +14,8 @@ angular.module('lkApp')
                 'COMMISSIONED_WORKS_PUBLIC_ART',
                 'GRANTS',
                 'PRIZES',
-                'ARTICLES',
-                'IN_PUBLICATIONS',
+                /* 'ARTICLES',
+                'IN_PUBLICATIONS', */
                 'MEMBERSHIPS',
                 'RESIDENCES',
                 'OTHER'
