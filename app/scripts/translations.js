@@ -110,6 +110,10 @@ var com_laurakarki_translations = {
             {
                 NAME: 'Huhuu oot sä unohtanu mut?',
                 DESC: '2008. Kuuntele teoksen ääni <a target="_blank" href="http://katastro.fi/~haggis/mp3/huhuuoneshot.mp3">täältä</a>'
+            },
+            {
+                NAME: 'Muhkukoira',
+                DESC: '2012.'
             }
         ],
 
@@ -726,6 +730,10 @@ var com_laurakarki_translations = {
             {
                 NAME: 'Hello Have You Forgotten About Me?',
                 DESC: '2008. Listen to the work\'s soundscape <a target="_blank" href="http://katastro.fi/~haggis/mp3/huhuuoneshot.mp3">here</a>'
+            },
+            {
+                NAME: 'Muhku Dog',
+                DESC: '2012.'
             }
         ],
 
