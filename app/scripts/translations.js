@@ -114,6 +114,14 @@ var com_laurakarki_translations = {
             {
                 NAME: 'Muhkukoira',
                 DESC: '2012.'
+            },
+            {
+                NAME: 'Anteeksi kulta tänään meni myöhään töissä',
+                DESC: '2014'
+            },
+            {
+                NAME: 'Leijuvat tytöt, Kuokkavieraat',
+                DESC: '2014'
             }
         ],
 
@@ -734,6 +742,14 @@ var com_laurakarki_translations = {
             {
                 NAME: 'Muhku Dog',
                 DESC: '2012.'
+            },
+            {
+                NAME: 'Sorry Honey I Ran Late At Work',
+                DESC: '2014'
+            },
+            {
+                NAME: 'Levitating Girls, Gatecrashers',
+                DESC: '2014'
             }
         ],
 
