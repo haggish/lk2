@@ -126,6 +126,11 @@ a, .footer > p > button {
   height: 525px;
 }
 
+.carousel-caption {
+  left: 10%;
+  right: 10%;
+}
+
 @media screen and (min-height: 950px) {
   .carousel-caption {
     color: black;

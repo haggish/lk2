@@ -77,7 +77,7 @@ var com_laurakarki_translations = {
             },
             {
                 NAME: 'Kostealla sienellä, karhealla puolella vaivasin ihoani liasta eroon',
-                DESC: '2008. Olen pohtinut sitä, kuinka yksinäiselle ihmiselle lämmin suihku ja pesusieni voi olla yksi läheisyyden muoto. Pyramidimuoto viittaa myös Abraham Maslown tarvehierarkiaan. Lue <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">näyttelyanalyysi</a> 00130Galleryn näyttelystä. Peseytymisestä ja veden äänistä koostuva äänimaailma kuultavissa <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">täällä</a>. Kuva Galleria Rajatilasta'
+                DESC: '2008. Olen pohtinut sitä, kuinka yksinäiselle ihmiselle lämmin suihku ja pesusieni voi olla yksi läheisyyden muoto. Pyramidimuoto viittaa myös Maslown tarvehierarkiaan. Kts. <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">näyttelyanalyysi</a> ja <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">äänimaailma</a>'
             },
             {
                 NAME: 'Hiiliperhonen on nimesi, kaipaat kiinnitettä siipiisi',
@@ -705,7 +705,7 @@ var com_laurakarki_translations = {
             },
             {
                 NAME: 'With A Moist Sponge, Rough Side I Rubbed My Skin From The Grime',
-                DESC: '2008. I have thought about how to a lonely person, a warm shower and washing sponge can be one form of intimacy. The pyramid form refers also to Abraham Maslow\'s hierarchy of needs. Read the <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">analysis</a> on the 00130 Gallery exhibition in 2008. The soundscape consisting of sounds of water and washing can be heard <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">here</a>. The picture from Gallery Rajatila'
+                DESC: '2008. I have thought about how to a lonely person, a warm shower and washing sponge can be one form of intimacy. The pyramid form refers also to Maslow\'s hierarchy of needs. See <a target="_blank" href="http://www.00130gallery.net/analyysikarki.html">exhibition analysis</a> and <a target="_blank" href="http://katastro.fi/~haggis/lk/suihku.mp3">soundscape</a>'
             },
             {
                 NAME: 'Coal Butterfly Is Your Name, You Need Fixative To Your Wings',
