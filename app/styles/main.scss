@@ -31,12 +31,20 @@ body {
   padding-bottom: 80px;
 }
 
+.navtabs {
+  margin-right: 10px;
+}
+
+.footerLinks {
+  margin-right: 20px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
 .footer {
   position: fixed;
-  width: 700px;
+  width: 100%;
   padding-left: 15px;
   padding-right: 15px;
   z-index: 2;
@@ -123,7 +131,7 @@ a, .footer > p > button {
 
 .carousel-inner > .item > img {
   margin: 0 auto;
-  height: 525px;
+  height: 100%;
 }
 
 .carousel-caption {
