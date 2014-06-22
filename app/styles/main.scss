@@ -38,6 +38,8 @@ body {
 
 .translation {
   padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 0px;
   border-right-width: 0px;
 }
 
@@ -68,20 +70,21 @@ body {
   z-index: 1;
   position: fixed;
   width: 100%;
-  height: 84px;
+  height: 70px;
   background: white;
 }
 
 .fadein {
   position: fixed;
-  top: 84px;
+  top: 70px;
   width: 100%;
   height: 20px;
-  z-index: 0;
+  z-index: 1;
   @include background-image(linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%));
 }
 
-@media screen and (max-width: 430px) {
+
+@media screen and (max-width: 768px) {
   .headerBack {
     height: 110px;
   }
@@ -89,9 +92,7 @@ body {
   .fadein {
     top: 110px;
   }
-}
 
-@media screen and (max-width: 768px) {
   .nav-tabs > li, .nav-pills > li {
     float: none;
     display: inline-block;
@@ -148,11 +149,32 @@ a, .footer > p > button {
   z-index: 1;
   position: fixed;
   width: 100%;
-  height: 80px; // 125
+  height: 80px;
   background: white;
 }
 
-@media screen and (max-width: 980px) {
+/* When the footer wraps to three stacks increase the footer gradient height
+   and the amount of empty in the end of content. Also make the thing pulled
+   left to align right since it is now not in the left side but by itself */
+@media screen and (max-width: 767px) {
+  .footerBack {
+    height: 115px;
+  }
+
+  .fadeout {
+    bottom: 115px;
+  }
+
+  .pull-left {
+    text-align: right;
+  }
+
+  .scrolledContent {
+    padding-bottom: 125px;
+  }
+}
+
+@media screen and (max-width: 580px) {
   .footerBack {
     height: 135px;
   }
