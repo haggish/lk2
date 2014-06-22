@@ -1,6 +1,7 @@
 <carousel id="workCarousel" class="carousel slide" data-ride="carousel">
     <slide active="slide.active" ng-repeat="work in works">
-        <img ng-src="../images/{{$index + 1}}.jpg" alt="{{work.name}}">
+        <img class="img-responsive" ng-src="../images/{{$index + 1}}.jpg"
+             alt="{{work.name}}">
 
         <div class="carousel-caption">
             <h3>{{work.name}}</h3>

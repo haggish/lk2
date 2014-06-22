@@ -26,8 +26,10 @@ body {
 }
 
 .content {
+  /*
   height: 700px;
-  padding-top: 80px;
+  */
+  padding-top: 70px;
   padding-bottom: 80px;
 }
 
@@ -83,14 +85,21 @@ body {
   @include background-image(linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 0) 100%));
 }
 
-
 @media screen and (max-width: 768px) {
   .headerBack {
     height: 110px;
   }
 
+  .content {
+    padding-top: 110px;
+  }
+
   .fadein {
     top: 110px;
+  }
+
+  .nav {
+    margin-bottom: 1px;
   }
 
   .nav-tabs > li, .nav-pills > li {
@@ -110,10 +119,11 @@ body {
 
   .title {
     text-align: center;
+    white-space: nowrap;
   }
 }
 
-/* Custom page footer */
+/* Custom page erer */
 .footer {
   bottom: 0px;
   padding-top: 19px;
@@ -122,13 +132,13 @@ body {
 }
 
 a, .footer > p > button {
-  color: brown;
+  color: pink;
 }
 
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  background-color: brown;
+  background-color: pink;
 }
 
 .scrolledContent {
@@ -157,8 +167,38 @@ a, .footer > p > button {
    and the amount of empty in the end of content. Also make the thing pulled
    left to align right since it is now not in the left side but by itself */
 @media screen and (max-width: 767px) {
+
+  h1 {
+    margin-bottom: 0px;
+  }
+
+  .footerLinks {
+    margin-bottom: 0px;
+  }
+
+  .footer {
+    padding-top: 0px;
+  }
+
+  body {
+    padding-top: 2px;
+  }
+
   .footerBack {
     height: 115px;
+  }
+
+  .translation {
+    padding-bottom: 0px;
+    border-bottom-width: 0px;
+  }
+
+  p.ptranslation {
+    margin: 0 0 0px;
+  }
+
+  .content {
+    padding-bottom: 115px;
   }
 
   .fadeout {
@@ -172,11 +212,33 @@ a, .footer > p > button {
   .scrolledContent {
     padding-bottom: 125px;
   }
+
+  .carousel-indicators {
+    display: none;
+  }
+}
+
+.carousel {
+  height: 100%;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+  height: 100%;
+}
+
+.carousel-caption {
+  left: 10%;
+  right: 10%;
 }
 
 @media screen and (max-width: 580px) {
   .footerBack {
     height: 135px;
+  }
+
+  .content {
+    padding-bottom: 135px;
   }
 
   .fadeout {
@@ -190,24 +252,21 @@ a, .footer > p > button {
   .scrolledContent {
     padding-bottom: 145px;
   }
+
+  .carousel {
+    height: inherit;
+    width: 100%;
+  }
+
+  .carousel-inner > .item > img {
+    margin: 0 auto;
+    height: inherit;
+    width: 100%;
+  }
 }
 
 .container-narrow > hr {
   margin: 30px 0;
-}
-
-.carousel {
-  height: 525px;
-}
-
-.carousel-inner > .item > img {
-  margin: 0 auto;
-  height: 525px;
-}
-
-.carousel-caption {
-  left: 10%;
-  right: 10%;
 }
 
 @media screen and (min-height: 950px) {
