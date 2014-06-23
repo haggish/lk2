@@ -87,15 +87,15 @@ body {
 
 @media screen and (max-width: 768px) {
   .headerBack {
-    height: 110px;
+    height: 81px;
   }
 
   .content {
-    padding-top: 110px;
+    padding-top: 81px;
   }
 
   .fadein {
-    top: 110px;
+    top: 81px;
   }
 
   .nav {
@@ -219,12 +219,12 @@ a, .footer > p > button {
 }
 
 .carousel {
-  height: 100%;
+  height: 70vh;
 }
 
 .carousel-inner > .item > img {
   margin: 0 auto;
-  height: 100%;
+  height: 70vh;
 }
 
 .carousel-caption {
@@ -234,15 +234,15 @@ a, .footer > p > button {
 
 @media screen and (max-width: 580px) {
   .footerBack {
-    height: 135px;
+    height: 84px;
   }
 
   .content {
-    padding-bottom: 135px;
+    padding-bottom: 84px;
   }
 
   .fadeout {
-    bottom: 135px;
+    bottom: 84px;
   }
 
   .pull-left {
@@ -250,18 +250,7 @@ a, .footer > p > button {
   }
 
   .scrolledContent {
-    padding-bottom: 145px;
-  }
-
-  .carousel {
-    height: inherit;
-    width: 100%;
-  }
-
-  .carousel-inner > .item > img {
-    margin: 0 auto;
-    height: inherit;
-    width: 100%;
+    padding-bottom: 96px;
   }
 }
 
