@@ -20,7 +20,7 @@ var com_laurakarki_translations = {
 
         'NEW': {
             'UPCOMING.1': '<a target="_blank" href="http://www.showroomberliini.com">Yksityisnäyttely, Showroom Berliini</a>',
-            'UPCOMING.1.DESC': 'Berliini, Saksa 12.9.-2.10.2014. Avajaiset 12.9. klo 18-21, Charlottenstr. 95',
+            'UPCOMING.1.DESC': 'Berliini, Saksa 16.9.-2.10.2014. Avajaiset 16.9. klo 18-21, Charlottenstr. 95',
             'UPCOMING.2': '<a target="_blank" href="http://www.suomi-asema.fi&target=_blank">Suomi-asema</a>',
             'UPCOMING.2.DESC': 'Frankfurt, Saksa 28.-31.8.2014 - kutsuttuna ' +
                 'taiteilijana mukana Westhafenpier-näyttelytilassa Main-joen ' +
@@ -650,7 +650,7 @@ var com_laurakarki_translations = {
 
         'NEW': {
             'UPCOMING.1': '<a target="_blank" href="http://www.showroomberliini.com">Solo exhibition, Showroom Berliini</a>',
-            'UPCOMING.1.DESC': 'Berlin, Germany 12.9.-2.10.2014. Opening 12.9. klo 18-21 at Charlottenstr. 95',
+            'UPCOMING.1.DESC': 'Berlin, Germany 16.9.-2.10.2014. Opening 16.9. klo 18-21 at Charlottenstr. 95',
             'UPCOMING.2': '<a target="_blank" href="http://www.suomi-asema.fi">Finland-Station</a>',
             'UPCOMING.2.DESC': 'Frankfurt, Germany between 28.-31.8.2014 ' +
                 'invited in the Westhafenpier exhibition space by river Main',
