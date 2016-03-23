@@ -19,14 +19,12 @@ var com_laurakarki_translations = {
         },
 
         'NEW': {
-            'UPCOMING.1': '<a target="_blank" href="http://www.showroomberliini.com">Yksityisnäyttely, Showroom Berliini</a>',
-            'UPCOMING.1.DESC': 'Berliini, Saksa 16.9.-2.10.2014. Avajaiset 16.9. klo 18-21, Charlottenstr. 95',
-            'UPCOMING.2': '<a target="_blank" href="http://www.suomi-asema.fi&target=_blank">Suomi-asema</a>',
-            'UPCOMING.2.DESC': 'Frankfurt, Saksa 28.-31.8.2014 - kutsuttuna ' +
-                'taiteilijana mukana Westhafenpier-näyttelytilassa Main-joen ' +
-                'rannalla',
-            'UPCOMING.3': '<a target="_blank" href="http://helsingintaiteilijaseura.fi/galleria-katariina/">Galleria Katariina</a>',
-            'UPCOMING.3.DESC': 'Yksityisnäyttely 19.11.-7.12.2014, Helsinki',
+            'UPCOMING.1': '<a target="_blank" href="https://www.grossestreffen.org/laura-karoliina-kaerki">Grosses Treffen</a>',
+            'UPCOMING.1.DESC': 'Berliini, Saksa 16.4.2016',
+            'UPCOMING.2': '<a target="_blank" href="http://www.varkaus.fi/palvelut/kulttuuri/varkauden_museot/nayttelyt/varkauden-museoiden-nayttelykale2/">Out and About</a>',
+            'UPCOMING.2.DESC': 'Ryhmänäyttely, Varkauden taidemuseo, 27.1.-14.5.2017',
+            'UPCOMING.3': '<a target="_blank" href="http://arteground.fi/">Alltogether</a>',
+            'UPCOMING.3.DESC': 'Ryhmänäyttely, Arteground Art Festival Baltic 2010-2016, Viljandi, Viro, 8.6.-1.7.2016',
             'UPCOMING.4': '<a target="_blank" href="http://kuusistontaidekartano.com/avoin-teoshaku-kesalle-2014/">Kuusiston kesä</a>',
             'UPCOMING.4.DESC': 'Yhteisnäyttely 17.5.-15.9.2014, My Water, ' +
                 'Kaarina'
@@ -649,14 +647,12 @@ var com_laurakarki_translations = {
         },
 
         'NEW': {
-            'UPCOMING.1': '<a target="_blank" href="http://www.showroomberliini.com">Solo exhibition, Showroom Berliini</a>',
-            'UPCOMING.1.DESC': 'Berlin, Germany 16.9.-2.10.2014. Opening 16.9. klo 18-21 at Charlottenstr. 95',
-            'UPCOMING.2': '<a target="_blank" href="http://www.suomi-asema.fi">Finland-Station</a>',
-            'UPCOMING.2.DESC': 'Frankfurt, Germany between 28.-31.8.2014 ' +
-                'invited in the Westhafenpier exhibition space by river Main',
-            'UPCOMING.3': '<a target="_blank" href="http://helsingintaiteilijaseura.fi/galleria-katariina/">Katariina Gallery</a>',
-            'UPCOMING.3.DESC': 'Solo exhibition between 19.11.-7.12.2014, ' +
-                'Helsinki',
+            'UPCOMING.1': '<a target="_blank" href="https://www.grossestreffen.org/laura-karoliina-kaerki">Grosses Treffen</a>',
+            'UPCOMING.1.DESC': 'Berlin, Germany 16.4.2016',
+            'UPCOMING.2': '<a target="_blank" href="http://www.varkaus.fi/palvelut/kulttuuri/varkauden_museot/nayttelyt/varkauden-museoiden-nayttelykale2/">Out and About</a>',
+            'UPCOMING.2.DESC': 'Group exhibition, Varkaus Art Museum, Finland 27.1.-14.5.2017',
+            'UPCOMING.3': '<a target="_blank" href="http://arteground.fi/">Alltogether</a>',
+            'UPCOMING.3.DESC': 'Group exhibition, Arteground Art Festival Baltic 2010-2016, Viljandi, Estonia 8.6.-1.7.2016',
             'UPCOMING.4': '<a target="_blank" href="http://kuusistontaidekartano.com/avoin-teoshaku-kesalle-2014/">Kuusisto Summer</a>',
             'UPCOMING.4.DESC': 'Group exhibition between 17.5.-15.9.2014, ' +
                 'My Water, Kaarina'
