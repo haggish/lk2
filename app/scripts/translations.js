@@ -109,8 +109,8 @@ var com_laurakarki_translations = {
         DESC: '2010'
       },
       {
-        NAME: 'Peiton alla',
-        DESC: '2009. Veistoksen sisällä on valo'
+        NAME: 'Mulgara',
+        DESC: '2016, sarjasta Uhanalaiset eläimet'
       },
       {
         NAME: 'Huhuu oot sä unohtanu mut?',
@@ -821,8 +821,8 @@ var com_laurakarki_translations = {
         DESC: '2010'
       },
       {
-        NAME: 'Under Cover',
-        DESC: '2009. The sculpture is lit from within'
+        NAME: 'Mulgara',
+        DESC: '2016, series: Endangered Animals'
       },
       {
         NAME: 'Hello Have You Forgotten About Me?',

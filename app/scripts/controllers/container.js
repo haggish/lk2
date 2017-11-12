@@ -37,7 +37,7 @@ angular.module('lkApp')
 
         function tabFromLocation() {
             return $scope.tabs.filter(function (tab) {
-                return $location.path().indexOf(tab.toLowerCase()) != -1;
+                return $location.path().indexOf(tab.toLowerCase()) !== -1;
             })[0];
         }
 
