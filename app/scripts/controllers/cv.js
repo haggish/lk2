@@ -25,14 +25,14 @@ angular.module('lkApp')
         $scope.timeFor = function (line) { // todo clean this shit up
             var start = line.start ? new Date(line.start) : undefined;
             var end = line.end ? new Date(line.end) : undefined;
-            var continuing = line.continuing ? true : false;
+            var continuing = line.continuing;
             var ret;
             var yearString = function () {
                 var ret = start ? start.getUTCFullYear().toString() : '';
                 if (end) {
-                    if (start == undefined) {
+                    if (start === undefined) {
                         ret += ('-' + end.getUTCFullYear());
-                    } else if (end.getUTCFullYear() !=
+                    } else if (end.getUTCFullYear() !==
                         start.getUTCFullYear()) {
                         ret += ('-' + end.getUTCFullYear());
                     }
@@ -53,8 +53,8 @@ angular.module('lkApp')
                             ret += '-';
                         }
                     } else if (end &&
-                        end.getUTCFullYear() == start.getUTCFullYear() &&
-                        end.getUTCMonth() != start.getUTCMonth()) {
+                        end.getUTCFullYear() === start.getUTCFullYear() &&
+                        end.getUTCMonth() !== start.getUTCMonth()) {
                         ret += ('-' + (end.getUTCMonth() + 1) +
                             '/' + start.getUTCFullYear());
                     } else {
