@@ -37,16 +37,16 @@ var com_laurakarki_translations = {
 
     'WORKS': [
       {
-        NAME: 'Stressipallot',
-        DESC: '2010. Materiaalina kangas ja täytemateriaali'
+        NAME: 'Who is she? II',
+        DESC: 'tekstiiliprintti, täytemateriaali 80cm x 30cm x 15cm'
       },
       {
-        NAME: 'Yhtä juhlaa',
-        DESC: '2012. Ääni-installaatio. Äänimaailma Bileet mahassa 3:34 min yhdessä Mika Salmisen kanssa. Sekatekniikka. Katso <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a> Vuotalon Galleriasta'
+        NAME: 'Who is she?',
+        DESC: 'tekstiiliprintti, täytemateriaali 32cm x 39cm x 10cm'
       },
       {
-        NAME: 'Yhtä juhlaa',
-        DESC: '2012. Ääni-installaatio. Äänimaailma Bileet mahassa 3:34 min yhdessä Mika Salmisen kanssa. Sekatekniikka. Katso <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a> Vuotalon Galleriasta'
+        NAME: 'Pullasorsa',
+        DESC: '2017'
       },
       {
         NAME: 'Yhtä juhlaa (osa)',
@@ -129,16 +129,16 @@ var com_laurakarki_translations = {
         DESC: '2014'
       },
       {
-        NAME: 'Who is she? II',
-        DESC: 'tekstiiliprintti, täytemateriaali 80cm x 30cm x 15cm'
+        NAME: 'Stressipallot',
+        DESC: '2010. Materiaalina kangas ja täytemateriaali'
       },
       {
-        NAME: 'Who is she?',
-        DESC: 'tekstiiliprintti, täytemateriaali 32cm x 39cm x 10cm'
+        NAME: 'Yhtä juhlaa',
+        DESC: '2012. Ääni-installaatio. Äänimaailma Bileet mahassa 3:34 min yhdessä Mika Salmisen kanssa. Sekatekniikka. Katso <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a> Vuotalon Galleriasta'
       },
       {
-        NAME: 'Pullasorsa',
-        DESC: '2017'
+        NAME: 'Yhtä juhlaa',
+        DESC: '2012. Ääni-installaatio. Äänimaailma Bileet mahassa 3:34 min yhdessä Mika Salmisen kanssa. Sekatekniikka. Katso <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a> Vuotalon Galleriasta'
       }
     ],
 
@@ -749,16 +749,16 @@ var com_laurakarki_translations = {
 
     'WORKS': [
       {
-        NAME: 'Stress balls',
-        DESC: '2010. Fabric and stuffing material'
+        NAME: 'Who is she? II',
+        DESC: 'textile prints, filling materials 80cm x 30cm x 15cm'
       },
       {
-        NAME: 'Party all the time',
-        DESC: '2012. Sound installation - soundscape Party in the Belly 3:34 min together with Mika Salminen. Mixed media. See also <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a>'
+        NAME: 'Who is she?',
+        DESC: 'textile prints, filling materials 32cm x 39cm x 10cm'
       },
       {
-        NAME: 'Party all the time',
-        DESC: '2012. Sound installation - soundscape Party in the Belly 3:34 min together with Mika Salminen. Mixed media. See also <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a>'
+        NAME: 'The Duck',
+        DESC: '2017'
       },
       {
         NAME: 'Party all the time (part)',
@@ -841,18 +841,17 @@ var com_laurakarki_translations = {
         DESC: '2014'
       },
       {
-        NAME: 'Who is she? II',
-        DESC: 'textile prints, filling materials 80cm x 30cm x 15cm'
+        NAME: 'Stress balls',
+        DESC: '2010. Fabric and stuffing material'
       },
       {
-        NAME: 'Who is she?',
-        DESC: 'textile prints, filling materials 32cm x 39cm x 10cm'
+        NAME: 'Party all the time',
+        DESC: '2012. Sound installation - soundscape Party in the Belly 3:34 min together with Mika Salminen. Mixed media. See also <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a>'
       },
       {
-        NAME: 'The Duck',
-        DESC: '2017'
+        NAME: 'Party all the time',
+        DESC: '2012. Sound installation - soundscape Party in the Belly 3:34 min together with Mika Salminen. Mixed media. See also <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a>'
       }
-
     ],
 
     'CV': {
