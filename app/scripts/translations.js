@@ -127,6 +127,18 @@ var com_laurakarki_translations = {
       {
         NAME: 'Leijuvat tytöt, Kuokkavieraat',
         DESC: '2014'
+      },
+      {
+        NAME: 'Who is she? II',
+        DESC: 'tekstiiliprintti, täytemateriaali 80cm x 30cm x 15cm'
+      },
+      {
+        NAME: 'Who is she?',
+        DESC: 'tekstiiliprintti, täytemateriaali 32cm x 39cm x 10cm'
+      },
+      {
+        NAME: 'Pullasorsa',
+        DESC: '2017'
       }
     ],
 
@@ -827,7 +839,20 @@ var com_laurakarki_translations = {
       {
         NAME: 'Levitating Girls, Gatecrashers',
         DESC: '2014'
+      },
+      {
+        NAME: 'Who is she? II',
+        DESC: 'textile prints, filling materials 80cm x 30cm x 15cm'
+      },
+      {
+        NAME: 'Who is she?',
+        DESC: 'textile prints, filling materials 32cm x 39cm x 10cm'
+      },
+      {
+        NAME: 'The Duck',
+        DESC: '2017'
       }
+
     ],
 
     'CV': {

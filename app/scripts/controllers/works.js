@@ -12,7 +12,7 @@ angular.module('lkApp')
 
         function fetchWorks () {
             com_laurakarki_translations.fi.WORKS.forEach(function (work, idx) {
-                var initial = $scope.works.length == 0;
+                var initial = $scope.works.length === 0;
                 var name = 'WORKS.' + idx + '.NAME',
                     desc = 'WORKS.' + idx + '.DESC';
                 $translate([name, desc]).then(function (translations) {
