@@ -49,6 +49,46 @@ var com_laurakarki_translations = {
         DESC: '2017'
       },
       {
+        NAME: 'Nan-äidinmaidonkorvike',
+        DESC: '2014, tekstiiliprintti, vanu, 11 x 12 cm–18 x 19 cm'
+      },
+      {
+        NAME: 'Tahdon',
+        DESC: '2014, digitaalisesti käsitelty lehtikuva, kehykset, 3 x 20 x 15 cm, Galleria Katariinan solo-näyttely 2015, Helsinki'
+      },
+      {
+        NAME: 'Tahdon',
+        DESC: '2014, digitaalisesti käsitelty lehtikuva, kehykset, 3 x 20 x 15 cm, Galleria Katariinan solo-näyttely 2015, Helsinki'
+      },
+      {
+        NAME: 'Äidin tupakkatauko',
+        DESC: '2014, Kangasprintti, täytemateriaali, 6x pituus noin 25 cm, Ø noin 5 cm, Showroom Berliini, Berlin'
+      },
+      {
+        NAME: 'Deep frozen has been opened, deep frozen has been closed',
+        DESC: '2016, 50 x 50cm'
+      },
+      {
+        NAME: 'Looking for Childhood',
+        DESC: '2015, Akryyli, vesiväri pahville'
+      },
+      {
+        NAME: 'Markku Seinäjoelta',
+        DESC: '2016, sekatekniikka'
+      },
+      {
+        NAME: 'Isä ja tytär',
+        DESC: '2015, akryyli pahville'
+      },
+      {
+        NAME: 'Showroom Berliini, 2014 Wie geht\'s -solo show',
+        DESC: 'Photo: Kris Braun'
+      },
+      {
+        NAME: 'Viinan himo',
+        DESC: '2015, 50 x 70 cm, akryyli pahville'
+      },
+      {
         NAME: 'Yhtä juhlaa (osa)',
         DESC: '2012. Ääni-installaatio. Äänimaailma Bileet mahassa 3:34 min yhdessä Mika Salmisen kanssa. Sekatekniikka. Katso <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a> Vuotalon Galleriasta'
       },
@@ -759,6 +799,46 @@ var com_laurakarki_translations = {
       {
         NAME: 'The Duck',
         DESC: '2017'
+      },
+      {
+        NAME: 'Nan mother\'s milk substitute',
+        DESC: '2014, textile print, filling material, 11 x 12 cm–18 x 19 cm'
+      },
+      {
+        NAME: 'I do',
+        DESC: '2014, digitally processed press photo, frame, 3 x 20 x 15 cm, Gallery Katariina solo exhibition 2015, Helsinki'
+      },
+      {
+        NAME: 'I do',
+        DESC: '2014, digitally processed press photo, frame, 3 x 20 x 15 cm, Gallery Katariina solo exhibition 2015, Helsinki'
+      },
+      {
+        NAME: 'Mother\'s cigarette break',
+        DESC: '2014, textile print, filling material, 6 pieces, length ~25 cm, Ø ~5 cm, Showroom Berliini, Berlin'
+      },
+      {
+        NAME: 'Deep frozen has been opened, deep frozen has been closed',
+        DESC: '2016, 50 x 50cm'
+      },
+      {
+        NAME: 'Looking for Childhood',
+        DESC: '2015, Acryl, water colour on cardboard'
+      },
+      {
+        NAME: 'Markku from Seinäjoki',
+        DESC: '2016, mixed media'
+      },
+      {
+        NAME: 'Father and daughter',
+        DESC: '2015, acryl on cardboard'
+      },
+      {
+        NAME: 'Showroom Berliini, 2014 Wie geht\'s -solo show',
+        DESC: 'Photo: Kris Braun'
+      },
+      {
+        NAME: 'Dipsomania',
+        DESC: '2015, 50 x 70 cm, acryl on cardboard'
       },
       {
         NAME: 'Party all the time (part)',
