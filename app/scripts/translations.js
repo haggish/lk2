@@ -19,20 +19,12 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="http://k41.koeln/">Kunst und Religion</a>',
-      'UPCOMING.1.DESC': 'Yhteisnäyttely, 16.-19.11.2017, K41, Köln, Saksa',
-      'UPCOMING.2': '<a target="_blank" href="http://www.valtiontaideteostoimikunta.fi/stateoftheart/heinola/">Vielä hetki lapsena</a>',
-      'UPCOMING.2.DESC': 'Yhteisnäyttely, 10.6.-3.9.2017, Heinolan taidemuseo',
-      'UPCOMING.3': '<a target="_blank" href="http://wiurilankesa.suntuubi.com/fi/N%C3%84YTTELYT%202014-2017/N%C3%84YTTELYT%202017/">Näkymättömät reitit</a>',
-      'UPCOMING.3.DESC': 'Yhteisnäyttely 21.7.-3.9.2017, Salo',
-      'UPCOMING.4': '<a target="_blank" href="http://www.gedok-berlin.de/index.php/ausstellungen/187-was-der-himmel-erlaubt">Was der Himmel erlaubt</a>',
-      'UPCOMING.4.DESC': 'Yhteisnäyttely 23.5.-2.7.2017, GEDOK-galleria, Berliini, Saksa',
-      'UPCOMING.5': '<a target="_blank" href="https://www.softwithin.org/artists">Feelings don\'t last forever</a>',
-      'UPCOMING.5.DESC': 'Yhteisnäyttely 26.-30.5.2017, Soft Within, Berliini, Saksa',
-      'UPCOMING.6': '<a target="_blank" href="http://artfairsuomi.fi/afs_2017/fi/taiteilijat/">Art Fair Suomi</a>',
-      'UPCOMING.6.DESC': '25.-28.5.2017, Helsinki',
-      'UPCOMING.7': '<a target="_blank" href="http://www.finlandsinstitutet.se/fi/events/aanitaiteen-sauna-sound-sauna/">Tempo dokumentär festival</a>',
-      'UPCOMING.7.DESC': 'Äänitaiteen sauna 11.3.2017, Tukholma, Ruotsi'
+      'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">ARTag Galleria</a>',
+      'UPCOMING.1.DESC': 'Yksityisnäyttely, Tammikuu 2019, Helsinki',
+      'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
+      'UPCOMING.2.DESC': 'Yksityisnäyttely, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki',
+      'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Päästä meidät pahasta</a>',
+      'UPCOMING.3.DESC': 'Yhteisnäyttely 4.8.-2.9.2018, Taidekeskus Antares, Sippola'
     },
 
     'WORKS': [
@@ -771,20 +763,12 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="http://k41.koeln/">Kunst und Religion</a>',
-      'UPCOMING.1.DESC': 'Group exhibition, 16.-19.11.2017, K41, Cologne, Germany',
-      'UPCOMING.2': '<a target="_blank" href="http://www.valtiontaideteostoimikunta.fi/stateoftheart/heinola/">Vielä hetki lapsena</a>',
-      'UPCOMING.2.DESC': 'Group exhibition, 10.6.-3.9.2017, Heinola Museum of Art, Finland',
-      'UPCOMING.3': '<a target="_blank" href="http://wiurilankesa.suntuubi.com/fi/N%C3%84YTTELYT%202014-2017/N%C3%84YTTELYT%202017/">Näkymättömät reitit</a>',
-      'UPCOMING.3.DESC': 'Group exhibition 21.7.-3.9.2017, Salo, Finland',
-      'UPCOMING.4': '<a target="_blank" href="http://www.gedok-berlin.de/index.php/ausstellungen/187-was-der-himmel-erlaubt">Was der Himmel erlaubt</a>',
-      'UPCOMING.4.DESC': 'Group exhibition 23.5.-2.7.2017, GEDOK Galerie, Berlin, Germany',
-      'UPCOMING.5': '<a target="_blank" href="https://www.softwithin.org/artists">Feelings don\'t last forever</a>',
-      'UPCOMING.5.DESC': 'Yhteisnäyttely 26.-30.5.2017, Soft Within, Berlin, Germany',
-      'UPCOMING.6': '<a target="_blank" href="http://artfairsuomi.fi/afs_2017/fi/taiteilijat/">Art Fair Suomi</a>',
-      'UPCOMING.6.DESC': '25.-28.5.2017, Helsinki, Finland',
-      'UPCOMING.7': '<a target="_blank" href="http://www.finlandsinstitutet.se/fi/events/aanitaiteen-sauna-sound-sauna/">Tempo documentary festival</a>',
-      'UPCOMING.7.DESC': 'Sound Sauna 11.3.2017, Stockholm, Sweden'
+      'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">ARTag Gallery</a>',
+      'UPCOMING.1.DESC': 'Solo exhitibion, January 2019, Helsinki, Finland',
+      'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
+      'UPCOMING.2.DESC': 'Solo exhibition, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki, Finland',
+      'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Deliver us from evil</a>',
+      'UPCOMING.3.DESC': 'Group exhibition 4.8.-2.9.2018, Art Center Antares, Sippola, Finland'
     },
 
     'WORKS': [
