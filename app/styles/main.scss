@@ -225,6 +225,7 @@ a, .footer > p > button {
 .carousel-inner > .item > img {
   margin: 0 auto;
   height: 70vh;
+  object-fit: contain;
 }
 
 .carousel-caption {
