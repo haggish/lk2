@@ -10,7 +10,7 @@ angular.module('lkApp')
             language(preferredLanguage);
         }
 
-        $scope.tabs = [ 'NEW', 'INTRO', 'CV', 'WORKS', 'OTHER' ];
+        $scope.tabs = [ 'NEW', 'INTRO', 'CV', 'WORKS', 'ARCHIVE', 'OTHER' ];
         $scope.selectedTab = tabFromLocation();
 
         $rootScope.$on('$locationChangeStart', function (event, newUrl) {

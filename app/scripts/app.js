@@ -29,6 +29,10 @@ angular
                 templateUrl: '../views/works.html',
                 controller: 'Works'
             })
+            .when('/archive/:whatever', {
+              templateUrl: '../views/archive.html',
+              controller: 'Archive'
+            })
             .when('/other/fi', {
                 templateUrl: '../views/other_fi.html'
             })
