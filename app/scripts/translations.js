@@ -21,7 +21,7 @@ var com_laurakarki_translations = {
 
     'NEW': {
       'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">Punnittu esitys</a>',
-      'UPCOMING.1.DESC': 'Yksityisnäyttely, 4.-27.1.2019, ARTag Gallery, Helsinki. Avajaiset 3.1.2019 klo 17-19',
+      'UPCOMING.1.DESC': 'Yksityisnäyttely, 4.-27.1.2019, ARTag Gallery, Helsinki. Avajaiset 3.1.2019 klo 17-19. <a target="_blank" href="../resources/laura_karki_a_measured_presentation.pdf">Lataa näyttelykatalogi</a>',
       'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
       'UPCOMING.2.DESC': 'Yksityisnäyttely, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki',
       'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Päästä meidät pahasta</a>',
@@ -773,7 +773,7 @@ var com_laurakarki_translations = {
 
     'NEW': {
       'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">A Measured Presentation</a>',
-      'UPCOMING.1.DESC': 'Solo exhitibion, 4.-27.1.2019, ARTag Gallery, Helsinki, Finland. Opening 3.1.2019 17-19',
+      'UPCOMING.1.DESC': 'Solo exhitibion, 4.-27.1.2019, ARTag Gallery, Helsinki, Finland. Opening 3.1.2019 17-19. <a target="_blank" href="../resources/laura_karki_a_measured_presentation.pdf">Download the exhibition catalog</a>',
       'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
       'UPCOMING.2.DESC': 'Solo exhibition, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki, Finland',
       'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Deliver us from evil</a>',
