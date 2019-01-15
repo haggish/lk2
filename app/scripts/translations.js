@@ -22,8 +22,8 @@ var com_laurakarki_translations = {
     'NEW': {
       'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">Punnittu esitys</a>',
       'UPCOMING.1.DESC': 'Yksityisnäyttely, 4.-27.1.2019, ARTag Gallery, Helsinki. Avajaiset 3.1.2019 klo 17-19',
-      'UPCOMING.2': '<a target="_blank" href="https://taarastinkesanayttely.fi/">Kuvakirja</a>',
-      'UPCOMING.2.DESC': 'Taarastin kesänäyttely (yhteisnäyttely), 12.6. - 18.8.2019, Taarasti',
+      'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
+      'UPCOMING.2.DESC': 'Yksityisnäyttely, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki',
       'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Päästä meidät pahasta</a>',
       'UPCOMING.3.DESC': 'Yhteisnäyttely 4.8.-2.9.2018, Taidekeskus Antares, Sippola'
     },
@@ -92,6 +92,10 @@ var com_laurakarki_translations = {
       {
         NAME: 'Leijuvat tytöt, Kuokkavieraat',
         DESC: '2014'
+      },
+      {
+        NAME: 'Circulation',
+        DESC: '2018'
       }
     ],
 
@@ -770,8 +774,8 @@ var com_laurakarki_translations = {
     'NEW': {
       'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">A Measured Presentation</a>',
       'UPCOMING.1.DESC': 'Solo exhitibion, 4.-27.1.2019, ARTag Gallery, Helsinki, Finland. Opening 3.1.2019 17-19',
-      'UPCOMING.2': '<a target="_blank" href="https://taarastinkesanayttely.fi/">The Picture Book</a>',
-      'UPCOMING.2.DESC': 'Taarasti summer exhibition 12.6. - 18.8.2019 (group exhibition), Taarasti, Finland',
+      'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
+      'UPCOMING.2.DESC': 'Solo exhibition, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki, Finland',
       'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Deliver us from evil</a>',
       'UPCOMING.3.DESC': 'Group exhibition 4.8.-2.9.2018, Art Center Antares, Sippola, Finland'
     },
@@ -840,6 +844,10 @@ var com_laurakarki_translations = {
       {
         NAME: 'Levitating Girls, Gatecrashers',
         DESC: '2014'
+      },
+      {
+        NAME: 'Circulation',
+        DESC: '2018'
       }
     ],
 
