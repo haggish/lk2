@@ -20,12 +20,12 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">Punnittu esitys</a>',
-      'UPCOMING.1.DESC': 'Yksityisnäyttely, 4.-27.1.2019, ARTag Gallery, Helsinki. Avajaiset 3.1.2019 klo 17-19. <a target="_blank" href="../resources/laura_karki_a_measured_presentation.pdf">Lataa näyttelykatalogi</a>',
-      'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
-      'UPCOMING.2.DESC': 'Yksityisnäyttely, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki',
-      'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Päästä meidät pahasta</a>',
-      'UPCOMING.3.DESC': 'Yhteisnäyttely 4.8.-2.9.2018, Taidekeskus Antares, Sippola'
+      'UPCOMING.1': '<a target="_blank" href="http://helsingintaiteilijaseura.fi/oodi-mediataide/">Helsingin Taiteilijaseura x Oodi</a>',
+      'UPCOMING.1.DESC': 'Yhteisnäyttely, 18.4.-12.5.2019, Keskustakirjasto Oodi, Helsinki. Avajaiset 18.4.2019 klo 17-19.',
+      'UPCOMING.2': '<a target="_blank" href="http://nastolankesanayttely.fi/">Kuvakirja - Nastolan kesänäyttely 2019</a>',
+      'UPCOMING.2.DESC': 'Yhteisnäyttely, 12.6.-18.8.2019, Vanha Kunnantalo, Nastola',
+      'UPCOMING.3': '<a target="_blank" href="http://www.artaggallery.com">Punnittu esitys</a>',
+      'UPCOMING.3.DESC': 'Yksityisnäyttely, 4.-27.1.2019, ARTag Gallery, Helsinki. Avajaiset 3.1.2019 klo 17-19. <a target="_blank" href="../resources/laura_karki_a_measured_presentation.pdf">Lataa näyttelykatalogi</a>',
     },
 
     'WORKS': [
@@ -772,12 +772,12 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="http://www.artaggallery.com">A Measured Presentation</a>',
-      'UPCOMING.1.DESC': 'Solo exhitibion, 4.-27.1.2019, ARTag Gallery, Helsinki, Finland. Opening 3.1.2019 17-19. <a target="_blank" href="../resources/laura_karki_a_measured_presentation.pdf">Download the exhibition catalog</a>',
-      'UPCOMING.2': '<a target="_blank" href="http://www.artgoeskapakka.fi/ohjelma">Art Goes Kapakka</a>',
-      'UPCOMING.2.DESC': 'Solo exhibition, 16.-25.8.2018, Tommyknocker Craft Beer Bar, Helsinki, Finland',
-      'UPCOMING.3': '<a target="_blank" href="http://paastameidatpahasta.net/">Deliver us from evil</a>',
-      'UPCOMING.3.DESC': 'Group exhibition 4.8.-2.9.2018, Art Center Antares, Sippola, Finland'
+      'UPCOMING.1': '<a target="_blank" href="http://helsingintaiteilijaseura.fi/oodi-mediataide/">Helsinki Artists\' Association x Oodi</a>',
+      'UPCOMING.1.DESC': 'Group exhitibion, 18.4.-12.5.2019, Oodi Central Library, Helsinki, Finland. Opening 18.4.2019 17-19.',
+      'UPCOMING.2': '<a target="_blank" href="https://nastolankesanayttely.fi/artists-2019/">The Picture Book - Nastola Summer Exhibition</a>',
+      'UPCOMING.2.DESC': 'Group exhibition, 12.6.-18.8.2019, Former Municipal Building, Nastola, Finland',
+      'UPCOMING.3': '<a target="_blank" href="http://www.artaggallery.com">A Measured Presentation</a>',
+      'UPCOMING.3.DESC': 'Solo exhitibion, 4.-27.1.2019, ARTag Gallery, Helsinki, Finland. Opening 3.1.2019 17-19. <a target="_blank" href="../resources/laura_karki_a_measured_presentation.pdf">Download the exhibition catalog</a>',
     },
 
     'WORKS': [
