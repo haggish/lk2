@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f34fe69-709d-4e0c-a9dd-0d044c400171" name="Default" comment="News update">
-      <change afterPath="$PROJECT_DIR$/app/images/bmb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lk.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lk.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/app/images/4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/scripts/translations.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scripts/translations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/intro_fi.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/intro_fi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,9 +14,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="lk" />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -38,6 +30,9 @@
       </GruntfileState>
     </gruntfiles>
     <initial>false</initial>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
@@ -80,31 +75,22 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="FullScreen" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
-    <property name="LayoutCode.rearrangeEntriesJSON" value="false" />
-    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
-    <property name="LayoutCode.rearrangeEntriesSCSS" value="false" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="editor.config.accepted" value="true" />
-    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
-    <property name="javascript.nodejs.core.library.configured.version" value="6.11.1" />
-    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="options.lastSelected" value="settings.nodejs" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/salminen_m1/Projects/lk2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/images" />
@@ -174,6 +160,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -188,6 +175,9 @@
       <workItem from="1458766479674" duration="1954000" />
       <workItem from="1606042185969" duration="26000" />
       <workItem from="1606042486500" duration="9229000" />
+      <workItem from="1664395549089" duration="4499000" />
+      <workItem from="1665498066558" duration="1099000" />
+      <workItem from="1668464204960" duration="74816000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed the header/footer; content fades in and out from the way of them">
       <created>1403170400448</created>
@@ -361,7 +351,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -378,9 +368,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -418,11 +406,5 @@
     <MESSAGE value="layout bugfix" />
     <MESSAGE value="News update" />
     <option name="LAST_COMMIT_MESSAGE" value="News update" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="393" y="213" width="1200" height="800" maximized="true" key="DiffContextDialog" timestamp="1606047448106">
-      <screen x="67" y="27" width="1853" height="1173" />
-    </state>
-    <state x="393" y="213" width="1200" height="800" maximized="true" key="DiffContextDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1606047448106" />
   </component>
 </project>

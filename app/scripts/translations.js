@@ -20,12 +20,10 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="http://www.nastolankesanayttely.fi">Nastolan Kesänäyttely 2021</a>',
+      'UPCOMING.1': '<a target="_blank" href="https://www.savonlinna.fi/riihisaari/h2o-veden-henki/">H2O VEDEN HENKI - Spirit of Water</a>',
       'UPCOMING.1.DESC': 'Yhteisnäyttely',
-      'UPCOMING.2': '<a target="_blank" href="https://www.berlin.de/ba-lichtenberg/auf-einen-blick/freizeit/kultur/artikel.298250.php">Family Affairs</a>',
-      'UPCOMING.2.DESC': 'Yhdessä Nina Lehtonen-Braunin kanssa, 16.1.-21.3.2021, Kulturhaus Karlshorst, Berliini',
-      'UPCOMING.3': '<a target="_blank" href="https://www.gn.go.kr/artscenter/index.do">The Wind - Nanseolheon International Exchange 10th Anniversary Exhibition</a>',
-      'UPCOMING.3.DESC': 'Yhteisnäyttely, 2.-19.7.2020, Gangneung Art Center, Gangneung, Etelä-Korea'
+      'UPCOMING.2': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">Uusi kirja</a>',
+      'UPCOMING.2.DESC': 'Laura Kärki (KERBER Verlag 2022)'
     },
 
     'WORKS': [
@@ -772,12 +770,10 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="http://www.nastolankesanayttely.fi">Nastola Summer Exhibition 2021</a>',
+      'UPCOMING.1': '<a target="_blank" href="https://www.savonlinna.fi/riihisaari/h2o-veden-henki/">H2O VEDEN HENKI - Spirit of Water</a>',
       'UPCOMING.1.DESC': 'Group exhibition',
-      'UPCOMING.2': '<a target="_blank" href="https://www.berlin.de/ba-lichtenberg/auf-einen-blick/freizeit/kultur/artikel.298250.php">Family Affairs</a>',
-      'UPCOMING.2.DESC': 'Together with Nina Lehtonen-Braun, 16.1.-21.3.2021, Kulturhaus Karlshorst, Berlin',
-      'UPCOMING.3': '<a target="_blank" href="https://www.gn.go.kr/artscenter/index.do">The Wind - Nanseolheon International Exchange 10th Anniversary Exhibition</a>',
-      'UPCOMING.3.DESC': 'Group exhibition, 2.-19.7.2020, Gangneung Art Center, Gangneung, South Korea'
+      'UPCOMING.2': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">New book</a>',
+      'UPCOMING.2.DESC': 'Laura Kärki (KERBER Verlag 2022)'
     },
 
     'WORKS': [
@@ -951,7 +947,7 @@ var com_laurakarki_translations = {
             'DESC': "Master of Arts, UIAH, Helsinki"
           },
           {
-            'DESC': "Textile design artesan, EVTEK Institute of Design, Vantaa"
+            'DESC': "Textile design Bachelor of Culture and Arts, EVTEK Institute of Design, Vantaa"
           },
           {
             'DESC': "Artesan of Ceramics, Tammela Institute of Arts and Crafts"
