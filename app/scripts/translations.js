@@ -734,13 +734,13 @@ var com_laurakarki_translations = {
           'MEMBERSHIPS': "Jäsenyydet",
           'VALUES': [
             {
-              'DESC': "nGbK neue Gesellschaft für bildende Kunst Berlin"
+              'DESC': "Verein Berliner Künstler"
             },
             {
-              'DESC': "Gedok, Gemeinschaft der Künstlerinnen und Kunstförderer e.V., Berlin"
+              'DESC': "Suomen kuvanveistäjäliitto"
             },
             {
-              'DESC': "Muu Ry"
+              'DESC': "BBK Berlin"
             },
             {
               'DESC': "Taiteilijat O Ry, varsinainen jäsen"
@@ -1453,10 +1453,16 @@ var com_laurakarki_translations = {
           'MEMBERSHIPS': "Memberships",
           'VALUES': [
             {
-              'DESC': "Muu Ry"
+              'DESC': "Verein Berliner Künstler"
             },
             {
-              'DESC': "Artists O Ry, full member"
+              'DESC': "The Association of Finnish Sculptors"
+            },
+            {
+              'DESC': "BBK Berlin"
+            },
+            {
+              'DESC': "Artists O Ry (full member)"
             },
             {
               'DESC': "Kuvasto Ry"
