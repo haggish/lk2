@@ -218,6 +218,31 @@ var com_laurakarki_translations = {
           'SELECT_PRIVATE_EXHIBITIONS': "Valikoidut yksityisnäyttelyt",
           'VALUES': [
             {
+              "start": "2025-01-01T00:00:00.000Z",
+              'DESC': "Galleria Halmetoja, Helsinki"
+            },
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "Galleria Halmetoja Mänttä, window exhibition, Mänttä"
+            },
+            {
+              "start": "2021-01-01T00:00:00.000Z",
+              "end": "2022-01-01T00:00:00.000Z",
+              'DESC': "Kulturhaus Karlshorst, Berliini"
+            },
+            {
+              "start": "2019-01-01T00:00:00.000Z",
+              'DESC': "ARTag Gallery, Helsinki"
+            },
+            {
+              "start": "2018-01-01T00:00:00.000Z",
+              'DESC': "AGK, Tommyknocker Craft Beer Bar, Berliini"
+            },
+            {
+              "start": "2014-01-01T00:00:00.000Z",
+              'DESC': "Galleria Katariina, Helsinki"
+            },
+            {
               "start": "2014-01-01T00:00:00.000Z",
               'DESC': "Showroom Berliini, Berliini"
             },
@@ -265,6 +290,68 @@ var com_laurakarki_translations = {
         'GROUP_EXHIBITIONS': {
           'GROUP_EXHIBITIONS': "Yhteisnäyttelyt",
           'VALUES': [
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "Verein Berliner Künstler: DIE NEUEN 2023, Berliini, Saksa"
+            },
+            {
+              "start": "2022-01-01T00:00:00.000Z",
+              'DESC': "Gallery Halmetoja, Helsinki"
+            },
+            {
+              "start": "2022-01-01T00:00:00.000Z",
+              'DESC': "Riihisaari - Savonlinnan museo: H20 Veden Henki, Savonlinna"
+            },
+            {
+              "start": "2021-01-01T00:00:00.000Z",
+              "end": "2022-01-01T00:00:00.000Z",
+              'DESC': "Aineen taidemuseo: Unta ja aikaa - Uusia hankintoja Aineen taidemuseon kokoelmasta, Tornio"
+            },
+            {
+              "start": "2021-01-01T00:00:00.000Z",
+              'DESC': "Nastolan kesänäyttely: Luontoretki, Nastola"
+            },
+            {
+              "start": "2020-01-01T00:00:00.000Z",
+              "end": "2021-01-01T00:00:00.000Z",
+              'DESC': "Aineen taidemuseo: Eila - nainen kokoelman takana, Tornio"
+            },
+            {
+              "start": "2020-01-01T00:00:00.000Z",
+              'DESC': "Gangneung Art Centre, Gangneung, Etelä-Korea"
+            },
+            {
+              "start": "2020-01-01T00:00:00.000Z",
+              'DESC': "Gallery MHK, Seoul, Etelä-Korea"
+            },
+            {
+              "start": "2019-01-01T00:00:00.000Z",
+              'DESC': "Nastolan kesänäyttely: Kuvakirja, Nastola"
+            },
+            {
+              "start": "2018-01-01T00:00:00.000Z",
+              'DESC': "Taidekeskus Antares: Päästä meidät pahasta, Sippola"
+            },
+            {
+              "start": "2018-01-01T00:00:00.000Z",
+              'DESC': "GEDOK Galerie: Fragmentierte Realität, Berliini, Saksa"
+            },
+            {
+              "start": "2018-01-01T00:00:00.000Z",
+              'DESC': "Soft Within/Straße 55 Gallery: Soft Spaces, Berliini, Saksa"
+            },
+            {
+              "start": "2018-01-01T00:00:00.000Z",
+              'DESC': "GEDOK Galerie: Neuaufnahmen, Berliini, Saksa"
+            },
+            {
+              "start": "2017-01-01T00:00:00.000Z",
+              'DESC': "Prenzlauer Studio/Kunst-Kollektiv: Soft Within presents Leftovers, Berliini, Saksa"
+            },
+            {
+              "start": "2017-01-01T00:00:00.000Z",
+              'DESC': "Kunstverein K41: Kunst & Religion, Köln, Saksa"
+            },
             {
               "start": "2017-01-01T00:00:00.000Z",
               'DESC': "Heinolan taidemuseo: Vielä hetki lapsena, Heinola"
@@ -960,6 +1047,24 @@ var com_laurakarki_translations = {
           'SELECT_PRIVATE_EXHIBITIONS': "Select private exhibitions",
           'VALUES': [
             {
+              'DESC': "Gallery Halmetoja, Helsinki"
+            },
+            {
+              'DESC': "Gallery Halmetoja Mänttä, window exhibition, Mänttä"
+            },
+            {
+              'DESC': "Kulturhaus Karlshorst, curator Dr. Sylvia Metz (with Niina Lehtonen-Braun), Berlin"
+            },
+            {
+              'DESC': "ARTag Gallery, Helsinki"
+            },
+            {
+              'DESC': "AGK, Tommyknocker Craft Beer Bar, Helsinki"
+            },
+            {
+              'DESC': "Gallery Katariina, Helsinki"
+            },
+            {
               'DESC': "Showroom Berliini, Berlin"
             },
             {
@@ -998,10 +1103,55 @@ var com_laurakarki_translations = {
           'GROUP_EXHIBITIONS': "Group exhibitions",
           'VALUES': [
             {
-              'DESC': "Heinola Museum of Art: Vielä hetki lapsena, Heinola, Finland"
+              'DESC': "Verein Berliner Künstler: DIE NEUEN 2023, Berlin, Germany"
             },
             {
-              'DESC': "Wiurila summer: Näkymättömät reitit, Salo, Finland"
+              'DESC': "Gallery Halmetoja, Helsinki"
+            },
+            {
+              'DESC': "Riihisaari - Savonlinna art museum: H20 Spirit of Water, Savonlinna"
+            },
+            {
+              'DESC': "Aine Art Museum: Dream and Time, New Acquisitions from Aine Art Museum Collections, Tornio"
+            },
+            {
+              'DESC': "Nastola Summer Exhibition: Nature Trip, Nastola"
+            },
+            {
+              'DESC': "Aine Art Museum: Eila - the Woman behind the Collection, Tornio"
+            },
+            {
+              'DESC': "Gangneung Art Centre, Gangneung, South Korea"
+            },
+            {
+              'DESC': "Gallery MHK, Seoul, South Korea"
+            },
+            {
+              'DESC': "Nastola Summer Exhibition: Picture Book, Nastola"
+            },
+            {
+              'DESC': "Art Centre Antares: Deliver Us From Evil, Sippola"
+            },
+            {
+              'DESC': "GEDOK Galerie: Fragmentierte Realität, Berlin, Germany"
+            },
+            {
+              'DESC': "Soft Within/Straße 55 Gallery: Soft Spaces, Berlin, Germany"
+            },
+            {
+              'DESC': "GEDOK Galerie: Neuaufnahmen, Berlin, Germany"
+            },
+            {
+              'DESC': "Prenzlauer Studio/Kunst-Kollektiv: Soft Within presents Leftovers, Berlin, Germany"
+            },
+            {
+              'DESC': "Kunstverein K41: Kunst & Religion, Cologne, Germany"
+            },
+            {
+              'DESC': "Heinola Museum of Art: Vielä hetki lapsena, Heinola"
+            },
+            {
+              'DESC': "Wiurila summer: Näkymättömät reitit, Salo"
             },
             {
               'DESC': "Was der Himmel erlaubt, GEDOK Galerie, Berlin, Germany"
@@ -1010,28 +1160,28 @@ var com_laurakarki_translations = {
               'DESC': "Feelings don't last forever, with Soft Within, Berlin, Germany"
             },
             {
-              'DESC': "Art Fair Finland, Helsinki, Finland"
+              'DESC': "Art Fair Finland, Helsinki"
             },
             {
               'DESC': "Sound Sauna, Tempo Documentary Festival in Stockholm, Finlandsinsitutet, Sweden"
             },
             {
-              'DESC': "Varkaus Museum of Art, Varkaus, Finland"
+              'DESC': "Varkaus Museum of Art, Varkaus"
             },
             {
-              'DESC': "Kuka kuuntelee köyhää? (Who listens to the poor?) Lapinlahti spring corridor gallery, Helsinki, Finland (invited)"
+              'DESC': "Kuka kuuntelee köyhää? (Who listens to the poor?) Lapinlahti spring corridor gallery, Helsinki (invited)"
             },
             {
-              'DESC': "Christmas Exhibition of the Helsinki Artists' Association, Helsinki, Finland"
+              'DESC': "Christmas Exhibition of the Helsinki Artists' Association, Helsinki"
             },
             {
-              'DESC': "Särö, Nordic Art Association in Finland, Almintalo gallery, Loviisa, Finland"
+              'DESC': "Särö, Nordic Art Association in Finland, Almintalo gallery, Loviisa"
             },
             {
-              'DESC': "Toolbox gallery, Menagerie, Berlin, Saksa"
+              'DESC': "Toolbox gallery, Menagerie, Berlin, Germany"
             },
             {
-              'DESC': "Arteground Festival Baltic 2010-2016, Alltogether, Viljandi, Viro"
+              'DESC': "Arteground Festival Baltic 2010-2016, Alltogether, Viljandi, Estonia"
             },
             {
               'DESC': "Galleria K, Vantaa"
