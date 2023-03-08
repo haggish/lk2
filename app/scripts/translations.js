@@ -633,36 +633,28 @@ var com_laurakarki_translations = {
           'GRANTS': "Apurahat",
           'VALUES': [
             {
+              "start": "2021-01-01T00:00:00.000Z",
+              'DESC': "Taiteen edistämiskeskus, Corona-apuraha"
+            },
+            {
+              "start": "2021-01-01T00:00:00.000Z",
+              'DESC': "Taiteen edistämiskeskus, Corona-apuraha"
+            },
+            {
+              "start": "2021-01-01T00:00:00.000Z",
+              'DESC': "Frame, taidekirjalle"
+            },
+            {
+              "start": "2020-01-01T00:00:00.000Z",
+              'DESC': "Taiteen edistämiskeskus, Corona-apuraha"
+            },
+            {
+              "start": "2020-01-01T00:00:00.000Z",
+              'DESC': "Ornamo Ry, 3D-keramiikkaan"
+            },
+            {
               "start": "2014-01-01T00:00:00.000Z",
               'DESC': "Taiteen edistämiskeskus, apuraha kansainvälisiin hankkeisiin, henkilökohtainen"
-            },
-            {
-              "start": "2013-01-01T00:00:00.000Z",
-              'DESC': "Suomen taiteilijaseura, matka-apuraha, henkilökohtainen"
-            },
-            {
-              "start": "2013-01-01T00:00:00.000Z",
-              'DESC': "Nordic Culture Point, työryhmälle"
-            },
-            {
-              "start": "2013-01-01T00:00:00.000Z",
-              'DESC': "Taiteen edistämiskeskus, työryhmälle"
-            },
-            {
-              "start": "2011-01-01T00:00:00.000Z",
-              'DESC': "Matka-apuraha, Suomen taiteilijaseura"
-            },
-            {
-              "start": "2010-01-01T00:00:00.000Z",
-              'DESC': "Taiteen keskustoimikunta, Arteground-ryhmälle"
-            },
-            {
-              "start": "2010-01-01T00:00:00.000Z",
-              'DESC': "Matka-apuraha, Suomen taiteilijaseura"
-            },
-            {
-              "start": "2009-01-01T00:00:00.000Z",
-              'DESC': "Matka-apuraha, Taiteen keskustoimikunta"
             },
             {
               "start": "2008-01-01T00:00:00.000Z",
@@ -1388,28 +1380,22 @@ var com_laurakarki_translations = {
           'GRANTS': "Grants",
           'VALUES': [
             {
-              'DESC': "Arts Promotion Centre Finland, personal grant for international projects"
+              'DESC': "Taike Arts Promotion Centre, Corona grant"
             },
             {
-              'DESC': "Artists\' Association of Finland, personal travel grant"
+              'DESC': "Taike Arts Promotion Centre, Corona grant"
             },
             {
-              'DESC': "Nordic Culture Point, for a working group"
+              'DESC': "Frame Contemporary Art Finland, for art book"
             },
             {
-              'DESC': "Arts Promotion Centre Finland, for a working group"
+              'DESC': "Taike Arts Promotion Centre, Corona grant"
             },
             {
-              'DESC': "Artists\' Association of Finland, travel grant"
+              'DESC': "Ornamo Ry, for 3D ceramics"
             },
             {
-              'DESC': "Arts Promotion Centre Finland, for Arteground group"
-            },
-            {
-              'DESC': "Artists\' Association of Finland, tranvel grant"
-            },
-            {
-              'DESC': "Arts Promotion Centre Finland, travel grant"
+              'DESC': "Taike Arts Promotion Centre, personal grant for international projects"
             },
             {
               'DESC': "Oskar Öflunds Stiftelse"
