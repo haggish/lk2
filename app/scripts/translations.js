@@ -1336,6 +1336,9 @@ var com_laurakarki_translations = {
               'DESC': "Private collections"
             },
             {
+              'DESC': "Private collections"
+            },
+            {
               'DESC': "Finnish State Art collections"
             },
             {
