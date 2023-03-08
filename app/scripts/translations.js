@@ -185,6 +185,18 @@ var com_laurakarki_translations = {
         'EDUCATION': 'Koulutus',
         'VALUES': [
           {
+            "start": "2006-01-01T00:00:00.000Z",
+            'DESC': "Taiteen maisteri, Taideteollinen korkeakoulu, Helsinki"
+          },
+          {
+            "start": "2002-01-01T00:00:00.000Z",
+            'DESC': "Tekstiilisuunnitteluartenomi, EVTEK Muotoiluinstituutti, Vantaa"
+          },
+          {
+            "start": "1998-01-01T00:00:00.000Z",
+            'DESC': "Keramiikka-alan artesaani, Tammelan käsi- ja taideteollisuusoppilaitos, Tammela"
+          },
+          {
             "start": "2018-01-01T00:00:00.000Z",
             "continuing": true,
             "DESC": "Kuvataideopettajan pedagogiset opinnot AmO, HAMK"
@@ -197,20 +209,7 @@ var com_laurakarki_translations = {
           {
             "start": "2011-01-01T00:00:00.000Z",
             'DESC': "Suomen Taiteilijaseuran managerointihanke (Kira Sjöberg)"
-          },
-          {
-            "start": "2006-01-01T00:00:00.000Z",
-            'DESC': "Taiteen maisteri, Taideteollinen korkeakoulu, Helsinki"
-          },
-          {
-            "start": "2002-01-01T00:00:00.000Z",
-            'DESC': "Tekstiilisuunnitteluartenomi, EVTEK Muotoiluinstituutti, Vantaa"
-          },
-          {
-            "start": "1998-01-01T00:00:00.000Z",
-            'DESC': "Keramiikka-alan artesaani, Tammelan käsi- ja taideteollisuusoppilaitos, Tammela"
-          }
-        ]
+          }]
       },
       'ARTISTIC_ACTIVITY': {
         'ARTISTIC_ACTIVITY': "Taiteellinen toiminta",
@@ -1039,15 +1038,6 @@ var com_laurakarki_translations = {
         'EDUCATION': 'Education',
         'VALUES': [
           {
-            'DESC': "Art teacher's pedagogical studies, Häme University of Applied Sciences (HAMK), Hämeenlinna, Finland"
-          },
-          {
-            'DESC': "Lyrics remote course, Etäopisto, Orivesi"
-          },
-          {
-            'DESC': "Finnish Artists Association management project by Kira Sjöberg"
-          },
-          {
             'DESC': "Master of Arts, UIAH, Helsinki"
           },
           {
@@ -1055,6 +1045,15 @@ var com_laurakarki_translations = {
           },
           {
             'DESC': "Artesan of Ceramics, Tammela Institute of Arts and Crafts"
+          },
+          {
+            'DESC': "Art teacher's pedagogical studies, Häme University of Applied Sciences (HAMK), Hämeenlinna, Finland"
+          },
+          {
+            'DESC': "Lyrics remote course, Etäopisto, Orivesi"
+          },
+          {
+            'DESC': "Finnish Artists Association management project by Kira Sjöberg"
           }
         ]
       },
