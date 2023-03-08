@@ -10,6 +10,7 @@ angular.module('lkApp')
             'ARTISTIC_ACTIVITY': [
                 'SELECT_PRIVATE_EXHIBITIONS',
                 'GROUP_EXHIBITIONS',
+                'POEM_PERFORMANCES',
                 'WORKS_IN_COLLECTIONS',
                 'COMMISSIONED_WORKS_PUBLIC_ART',
                 'GRANTS',

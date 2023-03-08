@@ -562,6 +562,19 @@ var com_laurakarki_translations = {
             }
           ]
         },
+        'POEM_PERFORMANCES': {
+          'POEM_PERFORMANCES': "Runoesitykset",
+          'VALUES': [
+            {
+              "start": "2021-01-01T00:00:00.000Z",
+              'DESC': "Pieni runofestivaali, Aska, Sodankylä"
+            },
+            {
+              "start": "2018-01-01T00:00:00.000Z",
+              'DESC': "Soft Within, Spoken Word Night, On Growth, Berliini, Saksa"
+            }
+          ]
+        },
         'WORKS_IN_COLLECTIONS': {
           'WORKS_IN_COLLECTIONS': "Teoksia kokoelmissa",
           'VALUES': [
@@ -1302,6 +1315,17 @@ var com_laurakarki_translations = {
             },
             {
               'DESC': "Déjà-vu - recycling art, Media Centre Lume Gallery, Helsinki"
+            }
+          ]
+        },
+        'POEM_PERFORMANCES': {
+          'POEM_PERFORMANCES': "Poem performances",
+          'VALUES': [
+            {
+              'DESC': "Small poem festival, Aska, Sodankylä"
+            },
+            {
+              'DESC': "Soft Within, Spoken Word Night, On Growth, Berlin, Germany"
             }
           ]
         },
