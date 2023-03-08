@@ -579,6 +579,18 @@ var com_laurakarki_translations = {
           'WORKS_IN_COLLECTIONS': "Teoksia kokoelmissa",
           'VALUES': [
             {
+              "start": "2019-01-01T00:00:00.000Z",
+              'DESC': "Lahden visuaalisten taiteiden museo Malva, Lahti"
+            },
+            {
+              "start": "2019-01-01T00:00:00.000Z",
+              'DESC': "Aineen taidemuseo, Tornio"
+            },
+            {
+              "start": "2019-01-01T00:00:00.000Z",
+              'DESC': "Yksityiset kokoelmat"
+            },
+            {
               "start": "2016-01-01T00:00:00.000Z",
               'DESC': "Yksityiset kokoelmat"
             },
@@ -1332,6 +1344,15 @@ var com_laurakarki_translations = {
         'WORKS_IN_COLLECTIONS': {
           'WORKS_IN_COLLECTIONS': "Works in collections",
           'VALUES': [
+            {
+              'DESC': "Lahti Museum of Visual Arts Malva, Lahti"
+            },
+            {
+              'DESC': "Aine Art Museum, Tornio"
+            },
+            {
+              'DESC': "Private collections"
+            },
             {
               'DESC': "Private collections"
             },
