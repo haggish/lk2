@@ -12,6 +12,7 @@ var com_laurakarki_translations = {
         'CONTACT': 'yhteys'
       },
       'FOOTER': {
+        'IG': 'instagram',
         'BLOG': 'blogi',
         'AAF': 'kuvataitelijamatrikkeli',
         'EMAIL': 'laura piste karki miukumauku gmail piste com'
@@ -20,10 +21,16 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="https://www.savonlinna.fi/riihisaari/h2o-veden-henki/">H2O VEDEN HENKI - Spirit of Water</a>',
-      'UPCOMING.1.DESC': 'Yhteisnäyttely',
-      'UPCOMING.2': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">Uusi kirja</a>',
-      'UPCOMING.2.DESC': 'Laura Kärki (KERBER Verlag 2022)'
+      'UPCOMING.1': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">Uusi kirja</a>',
+      'UPCOMING.1.DESC': 'Laura Kärki (KERBER Verlag 2022)',
+      'UPCOMING.2': '<a target="_blank" href="https://vbk-art.de">Verein Berliner Künstler - DIE NEUEN 2023</a>',
+      'UPCOMING.2.DESC': 'Ryhmänäyttely',
+      'UPCOMING.3': '<a target="_blank" href="https://galleryhalmetoja.com">Gallery Halmetoja Mänttä</a>',
+      'UPCOMING.3.DESC': 'Työt esillä 10.6.-31.8.2023, avajaiset 9.6.2023',
+      'UPCOMING.4': '<a target="_blank" href="https://www.teosmyynti.fi/myytavat-teokset/p/csadpr9mzmszwcg-epty2-ygddl-278s9-36aa6-5ted8-32dst">Töitä</a> <a target="_blank" href="https://www.teosmyynti.fi/myytavat-teokset/p/csadpr9mzmszwcg-epty2-ygddl-278s9-36aa6-5ted8">myynnissä</a> <a target="_blank" href="https://www.teosmyynti.fi/myytavat-teokset/p/csadpr9mzmszwcg-epty2-ygddl-278s9-36aa6-5ted8-32dst-lnhmy">Ornamon</a> <a target="_blank" href="https://teosmyynti.fi">Teosmyynnissä</a>',
+      'UPCOMING.4.DESC': 'Aikana 11.-31.3.2023, verkkokaupassa',
+      'UPCOMING.5': '<a target="_blank" href="https://www.galleriasnow.com/artists/laurakarki">Töitä myynnissä Galleria Snowssa Berliinissä</a>',
+      'UPCOMING.5.DESC': ''
     },
 
     'WORKS': [
@@ -865,6 +872,7 @@ var com_laurakarki_translations = {
         'CONTACT': 'contact'
       },
       'FOOTER': {
+        'IG': 'instagram',
         'BLOG': 'blog',
         'AAF': 'artists\' association of finland',
         'EMAIL': 'laura dot karki at gmail dot com'
@@ -873,10 +881,16 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="https://www.savonlinna.fi/riihisaari/h2o-veden-henki/">H2O VEDEN HENKI - Spirit of Water</a>',
-      'UPCOMING.1.DESC': 'Group exhibition',
-      'UPCOMING.2': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">New book</a>',
-      'UPCOMING.2.DESC': 'Laura Kärki (KERBER Verlag 2022)'
+      'UPCOMING.1': '<a target="_blank" href="https://www.kerberverlag.com/en/1958/laura-kaerki">New book</a>',
+      'UPCOMING.1.DESC': 'Laura Kärki (KERBER Verlag 2022)',
+      'UPCOMING.2': '<a target="_blank" href="https://vbk-art.de">Verein Berliner Künstler - DIE NEUEN 2023</a>',
+      'UPCOMING.2.DESC': 'Group exhibition',
+      'UPCOMING.3': '<a target="_blank" href="https://galleryhalmetoja.com">Gallery Halmetoja Mänttä</a>',
+      'UPCOMING.3.DESC': 'Works shown 10.6.-31.8.2023, opening 9.6.2023',
+      'UPCOMING.4': '<a target="_blank" href="https://www.teosmyynti.fi/myytavat-teokset/p/csadpr9mzmszwcg-epty2-ygddl-278s9-36aa6-5ted8-32dst">Works</a> <a target="_blank" href="https://www.teosmyynti.fi/myytavat-teokset/p/csadpr9mzmszwcg-epty2-ygddl-278s9-36aa6-5ted8">sold</a> <a target="_blank" href="https://www.teosmyynti.fi/myytavat-teokset/p/csadpr9mzmszwcg-epty2-ygddl-278s9-36aa6-5ted8-32dst-lnhmy">at</a> <a target="_blank" href="https://teosmyynti.fi">Ornamon Teosmyynti</a>',
+      'UPCOMING.4.DESC': 'During 11.-31.3.2023, online',
+      'UPCOMING.5': '<a target="_blank" href="https://www.galleriasnow.com/artists/laurakarki">Works on sale at Galleria Snow, Berlin</a>',
+      'UPCOMING.5.DESC': ''
     },
 
     'WORKS': [
