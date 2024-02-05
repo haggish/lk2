@@ -21,16 +21,14 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">Taidekirja</a>',
-      'UPCOMING.1.DESC': 'Laura Kärki (KERBER Verlag 2021)',
-      'UPCOMING.2': '<a target="_blank" href="https://teosvalitys.fi">TEOS 2023</a>',
-      'UPCOMING.2.DESC': '22.9.-1.10.2023',
-      'UPCOMING.3': '<a target="_blank" href="https://marsano-berlin.de">Art & Nature II, Natur in der zeitgenössischen Kunst</a>',
-      'UPCOMING.3.DESC': 'Marsano Berlin, 5.10.2023-13.1.2024, Avajaiset 4.10.2023 klo 18-20',
-      'UPCOMING.4': '<a target="_blank" href="http://finnland-institut.de/events/laura-kaerki-christine-nippe/">Kirjaesittely ja keskustelu (englanniksi)</a>',
-      'UPCOMING.4.DESC': 'Keskustelu Dr. Christine Nippen kanssa 10.10.2023, 16:30 Schwartzsche Villassa, Berliinissä',
-      'UPCOMING.5': '<a target="_blank" href="https://www.galleriasnow.com/artists/laurakarki">Töitä myynnissä Galleria Snowssa Berliinissä</a>',
-      'UPCOMING.5.DESC': ''
+      'UPCOMING.1': '<a target="_blank" href="https://finnland-institut.de/events/visiting-artists-2024-goman-jaeaeskelaeinen-kaerki-pussinen-raesaenen-salonen/?lang=en">Visiting Art/ists 2024: Ich finde dich in allen diesen Dingen</a>',
+      'UPCOMING.1.DESC': 'Ryhmänäyttely Suomi-instituutissa 8.2.-14.11.2024. Avajaiset 8.2. klo 18-21',
+      'UPCOMING.2': '<a target="_blank" href="https://www.facebook.com/watch/?v=904851727262198">Suomalainen Saksassa: Laura Kärki, kuvataiteilija</a>',
+      'UPCOMING.2.DESC': 'Suomen Saksan suurlähetystön tekemä haastatteluvideo',
+      'UPCOMING.3': '<a target="_blank" href="http://www.pispalaclothing.com/">Pispala Clothing</a>',
+      'UPCOMING.3.DESC': 'Yksityisnäyttely 12.4.-15.5.2024. Avajaiset 12.4.',
+      'UPCOMING.4': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">Taidekirja</a>',
+      'UPCOMING.4.DESC': 'Laura Kärki (KERBER Verlag 2021)'
     },
 
     'WORKS': [
@@ -881,16 +879,14 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="https://www.kerberverlag.com/en/1958/laura-kaerki">Artist book</a>',
-      'UPCOMING.1.DESC': 'Laura Kärki (KERBER Verlag 2021)',
-      'UPCOMING.2': '<a target="_blank" href="https://teosvalitys.fi">TEOS 2023</a>',
-      'UPCOMING.2.DESC': '22.9.-1.10.2023',
-      'UPCOMING.3': '<a target="_blank" href="https://marsano-berlin.de">Art & Nature II, Natur in der zeitgenössischen Kunst</a>',
-      'UPCOMING.3.DESC': 'Marsano Berlin, 5.10.2023-13.1.2024. Opening 4.10.2023, 18-20',
-      'UPCOMING.4': '<a target="_blank" href="http://finnland-institut.de/events/laura-kaerki-christine-nippe/">Book presentation and conversation (in english)</a>',
-      'UPCOMING.4.DESC': 'Conversation with Dr. Christine Nippe, 10.10.2023, 16:30, Schwartzsche Villa, Berlin',
-      'UPCOMING.5': '<a target="_blank" href="https://www.galleriasnow.com/artists/laurakarki">Works on sale at Galleria Snow, Berlin</a>',
-      'UPCOMING.5.DESC': ''
+      'UPCOMING.1': '<a target="_blank" href="https://finnland-institut.de/events/visiting-artists-2024-goman-jaeaeskelaeinen-kaerki-pussinen-raesaenen-salonen/?lang=en">Visiting Art/ists 2024: Ich finde dich in allen diesen Dingen</a>',
+      'UPCOMING.1.DESC': 'Group exhibition in Finnland-Institut 8.2.-14.11.2024. Opening 8.2. 18-21',
+      'UPCOMING.2': '<a target="_blank" href="https://www.facebook.com/watch/?v=904851727262198">A Finn in Germany: Laura Kärki, visual artist</a>',
+      'UPCOMING.2.DESC': 'A video interview made by Finnish Embassy of Germany',
+      'UPCOMING.3': '<a target="_blank" href="http://www.pispalaclothing.com/">Pispala Clothing</a>',
+      'UPCOMING.3.DESC': 'Solo exhibition 12.4.-15.5.2024. Opening 12.4.',
+      'UPCOMING.4': '<a target="_blank" href="https://www.kerberverlag.com/en/1958/laura-kaerki">Artist book</a>',
+      'UPCOMING.4.DESC': 'Laura Kärki (KERBER Verlag 2021)'
     },
 
     'WORKS': [
