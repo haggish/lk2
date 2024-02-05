@@ -33,12 +33,108 @@ var com_laurakarki_translations = {
 
     'WORKS': [
       {
-        NAME: 'Who is she?',
-        DESC: 'tekstiiliprintti, täytemateriaali 32cm x 39cm x 10cm'
+        NAME: 'Villisika Grunewaldin metsässä',
+        DESC: '2022, tuftattu erilaisilla langoilla, 29 x 29 x 3 cm, valokuva Daniel Poller'
       },
       {
-        NAME: 'Who is she? II',
-        DESC: 'tekstiiliprintti, täytemateriaali 80cm x 30cm x 15cm'
+        NAME: 'Vapaa karhu',
+        DESC: '2022, käsintuftattu minimatto, 45 x 45 x 2 cm'
+      },
+      {
+        NAME: 'Laiska berliiniläinen koira',
+        DESC: '2022, 45 x 45 x 2 cm'
+      },
+      {
+        NAME: 'Iloinen berliiniläinen sammakko',
+        DESC: '2022, käsintuftattu minimatto, 43 x 43 x 2 cm'
+      },
+      {
+        NAME: 'Seepra-aasi jäällä',
+        DESC: '2023, tuftattu erilaisilla langoilla, 28 x 29 x 2,5 cm'
+      },
+      {
+        NAME: 'Naakan ensilento pesästä',
+        DESC: '2023, tuftattu erilaisilla langoilla, 29 x 26 x 2,5 cm'
+      },
+      {
+        NAME: 'Hevonen ylensyö heinää',
+        DESC: '2023, tuftattu erilaisilla langoilla, 25 x 26 x 2,5 cm'
+      },
+      {
+        NAME: 'Yllätetty pupu',
+        DESC: '2023, tuftattu erilaisilla langoilla, 29 x 30 x 2,5 cm'
+      },
+      {
+        NAME: 'Big mouth bitch',
+        DESC: '2020, Öljypastellit MDF:lle, 60 x 80 cm'
+      },
+      {
+        NAME: 'Bad mouth',
+        DESC: '2020, Öljypastellit MDF:lle, 60 x 80 cm'
+      },
+      {
+        NAME: 'Matti',
+        DESC: '2020, Öljypastellit MDF:lle, 60 x 80 cm'
+      },
+      {
+        NAME: 'Jotain mitä en olisi ikinä halunnut kuulla',
+        DESC: '2020, Öljypastellit MDF:lle, 60 x 80 cm'
+      },
+      {
+        NAME: 'Rajanylittäjä',
+        DESC: '2020, Öljypastellit MDF:lle, 45 x 35 cm'
+      },
+      {
+        NAME: 'What if I drop you',
+        DESC: '2020, Öljypastellit kankaalle, 52 x 43 cm'
+      },
+      {
+        NAME: 'Who are you',
+        DESC: '2020, Öljypastellit puulle, 60 x 80 cm'
+      },
+      {
+        NAME: 'Moving out of childhood home',
+        DESC: '2015, Gouache, vesivärit, akryyli pahville, 105,5 x 75 x 3,5 cm'
+      },
+      {
+        NAME: 'Looking for the childhood',
+        DESC: '2015, Gouache, vesivärit, akryyli pahville, 105 x 75 x 4 cm'
+      },
+      {
+        NAME: 'Under the rainbow',
+        DESC: '2015, Gouache, vesivärit, akryyli pahville, 34,6 x 33,6 cm'
+      },
+      {
+        NAME: 'Dachshund fish',
+        DESC: '2023, mixed media, 27 x 71 x 24 cm, valokuva Daniel Poller'
+      },
+      {
+        NAME: 'Family Butterfly',
+        DESC: '2022, sekatekniikka, valokuva Daniel Poller'
+      },
+      {
+        NAME: 'Family Snake',
+        DESC: '2023, sekatekniikka, valokuva Daniel Poller'
+      },
+      {
+        NAME: 'Tucked away',
+        DESC: '2020, Ommellut ja täytetyt tekstiiliprintit, 70 x 80 cm'
+      },
+      {
+        NAME: 'Cleaning (installaatio)',
+        DESC: '2021, Nastolan kesänäyttely, valokuva Sami Funke'
+      },
+      {
+        NAME: 'Harjus 1 ja 2',
+        DESC: '2020, 3D-keramiikka, lasitteet ja tekstiiliprintit, 16 x 8,5 x 7 cm ja 18 x 7,5 x 5 cm'
+      },
+      {
+        NAME: 'Kuutti',
+        DESC: '2020, 3D-keramiikka, lasitteet ja tekstiiliprintit, 32 x 25 x 10 cm'
+      },
+      {
+        NAME: 'Saimaannorppa',
+        DESC: '2020, 3D-keramiikka, lasitteet ja tekstiiliprintit, 47 x 42 x 13 cm'
       },
       {
         NAME: 'Pullasorsa',
@@ -49,56 +145,12 @@ var com_laurakarki_translations = {
         DESC: '2020, 3D-printattu keramiikka, käsintehty keramiikka, lasite, eri kokoja'
       },
       {
-        NAME: 'Tahdon',
-        DESC: '2014, digitaalisesti käsitelty lehtikuva, kehykset, 3 x 20 x 15 cm, Galleria Katariinan solo-näyttely 2015, Helsinki'
-      },
-      {
-        NAME: 'Tahdon',
-        DESC: '2014, digitaalisesti käsitelty lehtikuva, kehykset, 3 x 20 x 15 cm, Galleria Katariinan solo-näyttely 2015, Helsinki'
-      },
-      {
-        NAME: 'Äidin tupakkatauko',
-        DESC: '2014, Kangasprintti, täytemateriaali, 6x pituus noin 25 cm, Ø noin 5 cm, Showroom Berliini, Berlin'
-      },
-      {
         NAME: 'Deep frozen has been opened, deep frozen has been closed',
         DESC: '2016, 50 x 50cm'
       },
       {
-        NAME: 'Looking for Childhood',
-        DESC: '2015, Akryyli, vesiväri pahville'
-      },
-      {
-        NAME: 'Markku Seinäjoelta',
-        DESC: '2016, sekatekniikka'
-      },
-      {
-        NAME: 'Isä ja tytär',
-        DESC: '2015, akryyli pahville'
-      },
-      {
-        NAME: 'Showroom Berliini, 2014 Wie geht\'s -solo show',
-        DESC: 'Photo: Kris Braun'
-      },
-      {
-        NAME: 'Viinan himo',
-        DESC: '2015, 50 x 70 cm, akryyli pahville'
-      },
-      {
         NAME: 'Mulgara',
         DESC: '2016, sarjasta Uhanalaiset eläimet'
-      },
-      {
-        NAME: 'Anteeksi kulta tänään meni myöhään töissä',
-        DESC: '2014'
-      },
-      {
-        NAME: 'Leijuvat tytöt, Kuokkavieraat',
-        DESC: '2014'
-      },
-      {
-        NAME: 'Circulation',
-        DESC: '2018'
       }
     ],
 
@@ -182,6 +234,58 @@ var com_laurakarki_translations = {
       {
         NAME: 'Yhtä juhlaa',
         DESC: '2012. Ääni-installaatio. Äänimaailma Bileet mahassa 3:34 min yhdessä Mika Salmisen kanssa. Sekatekniikka. Katso <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a> Vuotalon Galleriasta'
+      },
+      {
+        NAME: 'Who is she?',
+        DESC: 'tekstiiliprintti, täytemateriaali 32cm x 39cm x 10cm'
+      },
+      {
+        NAME: 'Who is she? II',
+        DESC: 'tekstiiliprintti, täytemateriaali 80cm x 30cm x 15cm'
+      },
+      {
+        NAME: 'Tahdon',
+        DESC: '2014, digitaalisesti käsitelty lehtikuva, kehykset, 3 x 20 x 15 cm, Galleria Katariinan solo-näyttely 2015, Helsinki'
+      },
+      {
+        NAME: 'Tahdon',
+        DESC: '2014, digitaalisesti käsitelty lehtikuva, kehykset, 3 x 20 x 15 cm, Galleria Katariinan solo-näyttely 2015, Helsinki'
+      },
+      {
+        NAME: 'Äidin tupakkatauko',
+        DESC: '2014, Kangasprintti, täytemateriaali, 6x pituus noin 25 cm, Ø noin 5 cm, Showroom Berliini, Berlin'
+      },
+      {
+        NAME: 'Looking for Childhood',
+        DESC: '2015, Akryyli, vesiväri pahville'
+      },
+      {
+        NAME: 'Markku Seinäjoelta',
+        DESC: '2016, sekatekniikka'
+      },
+      {
+        NAME: 'Isä ja tytär',
+        DESC: '2015, akryyli pahville'
+      },
+      {
+        NAME: 'Showroom Berliini, 2014 Wie geht\'s -solo show',
+        DESC: 'Photo: Kris Braun'
+      },
+      {
+        NAME: 'Viinan himo',
+        DESC: '2015, 50 x 70 cm, akryyli pahville'
+      },
+      {
+        NAME: 'Anteeksi kulta tänään meni myöhään töissä',
+        DESC: '2014'
+      },
+      {
+        NAME: 'Leijuvat tytöt, Kuokkavieraat',
+        DESC: '2014'
+      },
+      {
+        NAME: 'Circulation',
+        DESC: '2018'
       }
     ],
 
@@ -891,12 +995,108 @@ var com_laurakarki_translations = {
 
     'WORKS': [
       {
-        NAME: 'Who is she?',
-        DESC: 'textile prints, filling materials 32cm x 39cm x 10cm'
+        NAME: 'A wild boar in Grunewald forest',
+        DESC: '2022, Tufted different yarns, 29 x 29 x 3 cm, photo Daniel Poller'
       },
       {
-        NAME: 'Who is she? II',
-        DESC: 'textile prints, filling materials 80cm x 30cm x 15cm'
+        NAME: 'Bear free',
+        DESC: '2022, Hand-tufted mini rug, 45 x 45 x 2 cm'
+      },
+      {
+        NAME: 'Lazy Berlin dog',
+        DESC: '2022, 45 x 45 x 2 cm'
+      },
+      {
+        NAME: 'Happy Berlin frog',
+        DESC: '2022, Hand-tufted mini rug, 43 x 43 x 2 cm'
+      },
+      {
+        NAME: 'Zebra-donkey on ice',
+        DESC: '2023, Tufted different yarns, 28 x 29 x 2,5 cm'
+      },
+      {
+        NAME: 'Jackdaw\'s maiden flight from nest',
+        DESC: '2023, Tufted different yarns, 29 x 26 x 2,5 cm'
+      },
+      {
+        NAME: 'Horse overeating hay',
+        DESC: '2023, Tufted different yarns, 25 x 26 x 2,5 cm'
+      },
+      {
+        NAME: 'Surprised bunny',
+        DESC: '2023, Tufted different yarns, 29 x 30 x 2,5 cm'
+      },
+      {
+        NAME: 'Big mouth bitch',
+        DESC: '2020, Oil pastels on MDF, 60 x 80 cm'
+      },
+      {
+        NAME: 'Bad mouth',
+        DESC: '2020, Oil pastels on MDF, 60 x 80 cm'
+      },
+      {
+        NAME: 'Matti',
+        DESC: '2020, Oil pastels on MDF, 60 x 80 cm'
+      },
+      {
+        NAME: 'Something what I never wanted to hear',
+        DESC: '2020, Oil pastels on MDF, 60 x 80 cm'
+      },
+      {
+        NAME: 'Border crosser',
+        DESC: '2020, Oil pastels on MDF, 45 x 35 cm'
+      },
+      {
+        NAME: 'What if I drop you',
+        DESC: '2020, Oil pastels on canvas, 52 x 43 cm'
+      },
+      {
+        NAME: 'Who are you',
+        DESC: '2020, Oil pastels on wood, 60 x 80 cm'
+      },
+      {
+        NAME: 'Moving out of childhood home',
+        DESC: '2015, Gouache, watercolor, acrylic on cardboard, 105,5 x 75 x 3,5 cm'
+      },
+      {
+        NAME: 'Looking for the childhood',
+        DESC: '2015, Gouache, watercolor, acrylic on cardboard, 105 x 75 x 4 cm'
+      },
+      {
+        NAME: 'Under the rainbow',
+        DESC: '2015, Gouache, watercolor, acrylic on cardboard, 34,6 x 33,6 cm'
+      },
+      {
+        NAME: 'Dachshund fish',
+        DESC: '2023, mixed media, 27 x 71 x 24 cm, photo by Daniel Poller'
+      },
+      {
+        NAME: 'Family Butterfly',
+        DESC: '2022, mixed media, photo by Daniel Poller'
+      },
+      {
+        NAME: 'Family Snake',
+        DESC: '2023, mixed media, photo by Daniel Poller'
+      },
+      {
+        NAME: 'Tucked away',
+        DESC: '2020, Sewn and stuffed fabrics with textile prints, 70 x 80 cm'
+      },
+      {
+        NAME: 'Cleaning (installation)',
+        DESC: '2021, Nastola summer exhibition, photo by Sami Funke'
+      },
+      {
+        NAME: 'Grayling 1 and 2',
+        DESC: '2020, 3D ceramics, glazes and textile prints, 16 x 8,5 x 7 cm and 18 x 7,5 x 5 cm'
+      },
+      {
+        NAME: 'Seal pup',
+        DESC: '2020, 3D ceramics, glazes and textile prints, 32 x 25 x 10 cm'
+      },
+      {
+        NAME: 'Saimaa ringed seal',
+        DESC: '2020, 3D ceramics, glazes and textile prints, 47 x 42 x 13 cm'
       },
       {
         NAME: 'The Duck',
@@ -907,56 +1107,12 @@ var com_laurakarki_translations = {
         DESC: '2020, 3D-printed ceramics, handmade ceramics, glaze, different sizes'
       },
       {
-        NAME: 'I do',
-        DESC: '2014, digitally processed press photo, frame, 3 x 20 x 15 cm, Gallery Katariina solo exhibition 2015, Helsinki'
-      },
-      {
-        NAME: 'I do',
-        DESC: '2014, digitally processed press photo, frame, 3 x 20 x 15 cm, Gallery Katariina solo exhibition 2015, Helsinki'
-      },
-      {
-        NAME: 'Mother\'s cigarette break',
-        DESC: '2014, textile print, filling material, 6 pieces, length ~25 cm, Ø ~5 cm, Showroom Berliini, Berlin'
-      },
-      {
         NAME: 'Deep frozen has been opened, deep frozen has been closed',
         DESC: '2016, 50 x 50cm'
       },
       {
-        NAME: 'Looking for Childhood',
-        DESC: '2015, Acryl, water colour on cardboard'
-      },
-      {
-        NAME: 'Markku from Seinäjoki',
-        DESC: '2016, mixed media'
-      },
-      {
-        NAME: 'Father and daughter',
-        DESC: '2015, acryl on cardboard'
-      },
-      {
-        NAME: 'Showroom Berliini, 2014 Wie geht\'s -solo show',
-        DESC: 'Photo: Kris Braun'
-      },
-      {
-        NAME: 'Dipsomania',
-        DESC: '2015, 50 x 70 cm, acryl on cardboard'
-      },
-      {
         NAME: 'Mulgara',
         DESC: '2016, series: Endangered Animals'
-      },
-      {
-        NAME: 'Sorry Honey I Ran Late At Work',
-        DESC: '2014'
-      },
-      {
-        NAME: 'Levitating Girls, Gatecrashers',
-        DESC: '2014'
-      },
-      {
-        NAME: 'Circulation',
-        DESC: '2018'
       }
     ],
 
@@ -1040,6 +1196,58 @@ var com_laurakarki_translations = {
       {
         NAME: 'Party all the time',
         DESC: '2012. Sound installation - soundscape Party in the Belly 3:34 min together with Mika Salminen. Mixed media. See also <a target="_blank" href="http://www.youtube.com/watch?v=YRF4CTg9F3s">video</a>'
+      },
+      {
+        NAME: 'Who is she?',
+        DESC: 'textile prints, filling materials 32cm x 39cm x 10cm'
+      },
+      {
+        NAME: 'Who is she? II',
+        DESC: 'textile prints, filling materials 80cm x 30cm x 15cm'
+      },
+      {
+        NAME: 'I do',
+        DESC: '2014, digitally processed press photo, frame, 3 x 20 x 15 cm, Gallery Katariina solo exhibition 2015, Helsinki'
+      },
+      {
+        NAME: 'I do',
+        DESC: '2014, digitally processed press photo, frame, 3 x 20 x 15 cm, Gallery Katariina solo exhibition 2015, Helsinki'
+      },
+      {
+        NAME: 'Mother\'s cigarette break',
+        DESC: '2014, textile print, filling material, 6 pieces, length ~25 cm, Ø ~5 cm, Showroom Berliini, Berlin'
+      },
+      {
+        NAME: 'Looking for Childhood',
+        DESC: '2015, Acryl, water colour on cardboard'
+      },
+      {
+        NAME: 'Markku from Seinäjoki',
+        DESC: '2016, mixed media'
+      },
+      {
+        NAME: 'Father and daughter',
+        DESC: '2015, acryl on cardboard'
+      },
+      {
+        NAME: 'Showroom Berliini, 2014 Wie geht\'s -solo show',
+        DESC: 'Photo: Kris Braun'
+      },
+      {
+        NAME: 'Dipsomania',
+        DESC: '2015, 50 x 70 cm, acryl on cardboard'
+      },
+      {
+        NAME: 'Sorry Honey I Ran Late At Work',
+        DESC: '2014'
+      },
+      {
+        NAME: 'Levitating Girls, Gatecrashers',
+        DESC: '2014'
+      },
+      {
+        NAME: 'Circulation',
+        DESC: '2018'
       }
     ],
 
