@@ -753,6 +753,18 @@ var com_laurakarki_translations = {
           'WORKS_IN_COLLECTIONS': "Teoksia kokoelmissa",
           'VALUES': [
             {
+              "start": "2025-01-01T00:00:00.000Z",
+              'DESC': "Miettinen Collection"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Suomen valtion taidekokoelmat"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Mari Mannisen kokoelmat"
+            },
+            {
               "start": "2019-01-01T00:00:00.000Z",
               'DESC': "Lahden visuaalisten taiteiden museo Malva, Lahti"
             },
@@ -807,7 +819,11 @@ var com_laurakarki_translations = {
           'GRANTS': "Apurahat",
           'VALUES': [
             {
-              "start": "2021-01-01T00:00:00.000Z",
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Taiteen edistämiskeskus, 6 kk:n näyttöapuraha"
+            },
+            {
+              "start": "2022-01-01T00:00:00.000Z",
               'DESC': "Taiteen edistämiskeskus, Corona-apuraha"
             },
             {
@@ -1673,6 +1689,15 @@ var com_laurakarki_translations = {
           'WORKS_IN_COLLECTIONS': "Works in collections",
           'VALUES': [
             {
+              'DESC': "Miettinen Collection"
+            },
+            {
+              'DESC': "Finnish State Art Commission"
+            },
+            {
+              'DESC': "Mari Manninen Art Collection"
+            },
+            {
               'DESC': "Lahti Museum of Visual Arts Malva, Lahti"
             },
             {
@@ -1715,6 +1740,9 @@ var com_laurakarki_translations = {
         'GRANTS': {
           'GRANTS': "Grants",
           'VALUES': [
+            {
+              'DESC': "Taike Arts Promotion Centre, Public display for 6 months of artistic work"
+            },
             {
               'DESC': "Taike Arts Promotion Centre, Corona grant"
             },

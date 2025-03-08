@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f34fe69-709d-4e0c-a9dd-0d044c400171" name="Default" comment="Works update">
-      <change afterPath="$PROJECT_DIR$/app/images/a_dog_enjoys_the_fresh_air.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4f34fe69-709d-4e0c-a9dd-0d044c400171" name="Default" comment="News, CV update">
       <change beforePath="$PROJECT_DIR$/app/scripts/translations.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/scripts/translations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/other_en.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/other_en.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/other_fi.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/other_fi.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -220,7 +215,7 @@
       <workItem from="1707125979860" duration="66000" />
       <workItem from="1707126091553" duration="13834000" />
       <workItem from="1710249566227" duration="14000" />
-      <workItem from="1741429773499" duration="7632000" />
+      <workItem from="1741429773499" duration="8393000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed the header/footer; content fades in and out from the way of them">
       <created>1403170400448</created>
@@ -498,7 +493,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707156219712</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="News, CV update">
+      <option name="closed" value="true" />
+      <created>1741442039688</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1741442039688</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CV responsivity tweaks" />
     <MESSAGE value="Other responsivity tweaks" />
     <MESSAGE value="CV tweaks" />
     <MESSAGE value="Tweak-o-rama" />
@@ -549,6 +551,7 @@
     <MESSAGE value="News edit" />
     <MESSAGE value="News edit and new picture" />
     <MESSAGE value="Works update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Works update" />
+    <MESSAGE value="News, CV update" />
+    <option name="LAST_COMMIT_MESSAGE" value="News, CV update" />
   </component>
 </project>
