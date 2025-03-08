@@ -21,14 +21,16 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="https://finnland-institut.de/events/visiting-artists-2024-goman-jaeaeskelaeinen-kaerki-pussinen-raesaenen-salonen/?lang=en">Visiting Art/ists 2024: Ich finde dich in allen diesen Dingen</a>',
-      'UPCOMING.1.DESC': 'Ryhmänäyttely Suomi-instituutissa 8.2.-14.11.2024. Avajaiset 8.2. klo 18-21',
-      'UPCOMING.2': '<a target="_blank" href="https://www.facebook.com/watch/?v=904851727262198">Suomalainen Saksassa: Laura Kärki, kuvataiteilija</a>',
-      'UPCOMING.2.DESC': 'Suomen Saksan suurlähetystön tekemä haastatteluvideo',
-      'UPCOMING.3': '<a target="_blank" href="http://www.pispalaclothing.com/">Pispala Clothing</a>',
-      'UPCOMING.3.DESC': 'Yksityisnäyttely 12.4.-15.5.2024. Avajaiset 12.4.',
-      'UPCOMING.4': '<a target="_blank" href=" https://www.kerberverlag.com/en/1958/laura-kaerki">Taidekirja</a>',
-      'UPCOMING.4.DESC': 'Laura Kärki (KERBER Verlag 2021)'
+      'UPCOMING.1': '<a target="_blank" href="https://galleryhalmetoja.com/exhibitions/3786/">Furry Darlings</a>',
+      'UPCOMING.1.DESC': 'Yksityisnäyttely Gallery Halmetojassa 25.4.-18.5.2025. Näyttelyn avajaiset 24.4.2025 klo 17-19',
+      'UPCOMING.2': '<a target="_blank" href="http://subjectobject.de/index.html">Künstler=innen</a>',
+      'UPCOMING.2.DESC': 'Ryhmänäyttely Galerie subjectobjectissa 8.3.-5.4.2025. Näyttelyn avajaiset 7.3.2025 klo 19-22',
+      'UPCOMING.3': '<a target="_blank" href="https://vbk-art.de/the-new-you-we-me/">The new you-we-me</a>',
+      'UPCOMING.3.DESC': 'Osa EMOP Berliniä (European Month of Photography). Ryhmänäyttely Verein Berliner Künstler-galleriassa 15.3.-6.4.2025. Avajaiset 14.3. klo 19',
+      'UPCOMING.4': '<a target="_blank" href="https://vbk-art.de/">UPDATE 2025</a>',
+      'UPCOMING.4.DESC': 'Group exhibition at Verein Berliner Künstler gallery 11.4.-11.5.2025. Exhibition opening 11.4. at 19',
+      'UPCOMING.5': '<a target="_blank" href="https://finnland-institut.de/events/visiting-artists-2024-goman-jaeaeskelaeinen-kaerki-pussinen-raesaenen-salonen/?lang=en">Visiting Art/ists 2024: Ich finde dich in allen diesen Dingen</a>',
+      'UPCOMING.5.DESC': 'Ryhmänäyttely Suomi-instituutissa 8.2.-14.11.2024. Avajaiset 8.2. klo 18-21. <a target="_blank" href="https://finnland-institut.de/wp-content/uploads/2024/02/Visiting-Artists-2024-ScreenPDF_verkleinert.pdf">Linkki katalogiin</a>',
     },
 
     'WORKS': [
@@ -326,6 +328,14 @@ var com_laurakarki_translations = {
           'SELECT_PRIVATE_EXHIBITIONS': "Valikoidut yksityisnäyttelyt",
           'VALUES': [
             {
+              "start": "2026-01-01T00:00:00.000Z",
+              'DESC': "Orimattilan taidemuseo"
+            },
+            {
+              "start": "2025-01-01T00:00:00.000Z",
+              'DESC': "Galleria Halmetoja, Helsinki (Toukokuu)"
+            },
+            {
               "start": "2025-01-01T00:00:00.000Z",
               'DESC': "Galleria Halmetoja, Helsinki"
             },
@@ -398,6 +408,62 @@ var com_laurakarki_translations = {
         'GROUP_EXHIBITIONS': {
           'GROUP_EXHIBITIONS': "Yhteisnäyttelyt",
           'VALUES': [
+            {
+              "start": "2025-01-01T00:00:00.000Z",
+              'DESC': "Verein Berliner Künstler: 11th EMOP Berlin 2025 - The NEW YOU-WE-ME, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Finnland-Institut Berlin: Visiting Art/ists exhibition, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Verein Berliner Künstler: Das Gesicht, ein Portrait, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Hilbertraum: Hanging a thread, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Lappeenrannan taidemuseo: Normaalit ruokajuomat ja jokapäiväinen leipämme, Lappeenranta"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Atelierhof Kreuzberg: MONDAY ART SALON, Kapitel 60, Heimat und vertraute Orte, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Atelierhof Kreuzberg: MONDAY ART SALON, Kapitel 58, Entfremdung durch Willkur in Medium Fotografie, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Atelierhof Kreuzberg: MONDAY ART SALON, Kapitel 55, Kinetische Kunst und andere Variationen, Berliini, Saksa"
+            },
+            {
+              "start": "2024-01-01T00:00:00.000Z",
+              'DESC': "Verein Berliner Künstler: UPDATE 2024, Berliini, Saksa"
+            },
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "Gallery Halmetoja: Jouluglögit, Helsinki"
+            },
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "SNOW Winter Salon, Snow Gallery, Berliini, Saksa"
+            },
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "Verein Berliner Künstler: Die poetische Seite, Berliini, Saksa"
+            },
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "Blummen Marsano: ART and Nature II, Natur in der zeitgenössichen Kunst, Berliini, Saksa"
+            },
+            {
+              "start": "2023-01-01T00:00:00.000Z",
+              'DESC': "Verein Berliner Künstler: UPDATE 2023, Berliini, Saksa"
+            },
             {
               "start": "2023-01-01T00:00:00.000Z",
               'DESC': "Verein Berliner Künstler: DIE NEUEN 2023, Berliini, Saksa"
@@ -983,14 +1049,16 @@ var com_laurakarki_translations = {
     },
 
     'NEW': {
-      'UPCOMING.1': '<a target="_blank" href="https://finnland-institut.de/events/visiting-artists-2024-goman-jaeaeskelaeinen-kaerki-pussinen-raesaenen-salonen/?lang=en">Visiting Art/ists 2024: Ich finde dich in allen diesen Dingen</a>',
-      'UPCOMING.1.DESC': 'Group exhibition in Finnland-Institut 8.2.-14.11.2024. Opening 8.2. 18-21',
-      'UPCOMING.2': '<a target="_blank" href="https://www.facebook.com/watch/?v=904851727262198">A Finn in Germany: Laura Kärki, visual artist</a>',
-      'UPCOMING.2.DESC': 'A video interview made by Finnish Embassy of Germany',
-      'UPCOMING.3': '<a target="_blank" href="http://www.pispalaclothing.com/">Pispala Clothing</a>',
-      'UPCOMING.3.DESC': 'Solo exhibition 12.4.-15.5.2024. Opening 12.4.',
-      'UPCOMING.4': '<a target="_blank" href="https://www.kerberverlag.com/en/1958/laura-kaerki">Artist book</a>',
-      'UPCOMING.4.DESC': 'Laura Kärki (KERBER Verlag 2021)'
+      'UPCOMING.1': '<a target="_blank" href="https://galleryhalmetoja.com/exhibitions/3786/">Furry Darlings</a>',
+      'UPCOMING.1.DESC': 'Solo exhibition at Gallery Halmetoja 25.4.-18.5.2025. Exhibition opening 24.4.2025 at 17-19',
+      'UPCOMING.2': '<a target="_blank" href="http://subjectobject.de/index.html">Künstler=innen</a>',
+      'UPCOMING.2.DESC': 'Group exhibition at Galerie subjectobject 8.3.-5.4.2025. Exhibition opening 7.3.2025 at 19-22',
+      'UPCOMING.3': '<a target="_blank" href="https://vbk-art.de/the-new-you-we-me/">The new you-we-me</a>',
+      'UPCOMING.3.DESC': 'Part of EMOP Berlin (European Month of Photography). Group exhibition at Verein Berliner Künstler gallery 15.3.-6.4.2025. Exhibition opening 14.3. at 19',
+      'UPCOMING.4': '<a target="_blank" href="https://vbk-art.de/">UPDATE 2025</a>',
+      'UPCOMING.4.DESC': 'Group exhibition at Verein Berliner Künstler gallery 11.4.-11.5.2025. Exhibition opening 11.4. at 19',
+      'UPCOMING.5': '<a target="_blank" href="https://finnland-institut.de/events/visiting-artists-2024-goman-jaeaeskelaeinen-kaerki-pussinen-raesaenen-salonen/?lang=en">Visiting Art/ists 2024: Ich finde dich in allen diesen Dingen</a>',
+      'UPCOMING.5.DESC': 'Group exhibition in Finnland-Institut 8.2.-14.11.2024. Opening 8.2. 18-21. <a target="_blank" href="https://finnland-institut.de/wp-content/uploads/2024/02/Visiting-Artists-2024-ScreenPDF_verkleinert.pdf">Link to the catalogue PDF</a>'
     },
 
     'WORKS': [
@@ -1281,6 +1349,12 @@ var com_laurakarki_translations = {
           'SELECT_PRIVATE_EXHIBITIONS': "Select private exhibitions",
           'VALUES': [
             {
+              'DESC': "Orimattila Art Museum"
+            },
+            {
+              'DESC': "Galleria Halmetoja, Helsinki (May)"
+            },
+            {
               'DESC': "Gallery Halmetoja, Helsinki"
             },
             {
@@ -1336,6 +1410,51 @@ var com_laurakarki_translations = {
         'GROUP_EXHIBITIONS': {
           'GROUP_EXHIBITIONS': "Group exhibitions",
           'VALUES': [
+            {
+              'DESC': "Verein Berliner Künstler: 11th EMOP Berlin 2025 - The NEW YOU-WE-ME, Berliini, Saksa"
+            },
+            {
+              'DESC': "Finnland-Institut Berlin: Visiting Art/ists exhibition, Berlin, Germany"
+            },
+            {
+              'DESC': "Verein Berliner Künstler: Das Gesicht, ein Portrait, Berlin, Germany"
+            },
+            {
+              'DESC': "Hilbertraum: Hanging a thread, Berlin, Germany"
+            },
+            {
+              'DESC': "Lappeenranta Art Museum: Normaalit ruokajuomat ja jokapäiväinen leipämme, Lappeenranta"
+            },
+            {
+              'DESC': "Atelierhof Kreuzberg: MONDAY ART SALON, Kapitel 60, Heimat und vertraute Orte, Berlin, Germany"
+            },
+            {
+              'DESC': "Atelierhof Kreuzberg: MONDAY ART SALON, Kapitel 58, Entfremdung durch Willkur in Medium Fotografie, Berlin, Germany"
+            },
+            {
+              'DESC': "Atelierhof Kreuzberg: MONDAY ART SALON, Kapitel 55, Kinetische Kunst und andere Variationen, Berlin, Germany"
+            },
+            {
+              'DESC': "Verein Berliner Künstler: UPDATE 2024, Berlin, Germany"
+            },
+            {
+              'DESC': "Gallery Halmetoja: Jouluglögit, Helsinki"
+            },
+            {
+              'DESC': "SNOW Winter Salon, Snow Gallery, Berlin, Germany"
+            },
+            {
+              'DESC': "Verein Berliner Künstler: Die poetische Seite, Berlin, Germany"
+            },
+            {
+              'DESC': "Blummen Marsano: ART and Nature II, Natur in der zeitgenössichen Kunst, Berlin, Germany"
+            },
+            {
+              'DESC': "Verein Berliner Künstler: UPDATE 2023, Berlin, Germany"
+            },
+            {
+              'DESC': "Verein Berliner Künstler: DIE NEUEN 2023, Berlin, Germany"
+            },
             {
               'DESC': "Verein Berliner Künstler: DIE NEUEN 2023, Berlin, Germany"
             },
